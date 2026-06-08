@@ -1,0 +1,18 @@
+{
+  "start_date": "2017-02-09",
+  "end_date": "2026-02-28",
+  "expected_days": 3307,
+  "files_found": 3302,
+  "missing_dates": [
+    "2017-06-26",
+    "2017-07-24",
+    "2020-07-19",
+    "2020-07-20",
+    "2022-10-19"
+  ],
+  "au_rows_read": 11400279,
+  "main_page_rows_excluded": 12082,
+  "total_views": 4263461008,
+  "unique_pages": 296668,
+  "complete": false
+}

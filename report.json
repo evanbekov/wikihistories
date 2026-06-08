@@ -1,0 +1,13 @@
+{
+  "australia_pageviews": {
+    "australia_pageview_rows": "11,400,279",
+    "daily_average_views": "1,291,175",
+    "expected_days": "3,307",
+    "figure": "outputs/figures/australia_daily_views.png",
+    "files_found": "3,302",
+    "missing_days": "26 June 2017, 24 July 2017, 19 July 2020, 20 July 2020, 19 October 2022",
+    "missing_days_number": "5",
+    "total_views": "4,263,461,008",
+    "unique_pages": "296,668"
+  }
+}

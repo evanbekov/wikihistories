@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+set -eu
+
+if [ -x ".venv/bin/python" ]; then
+  PYTHON=".venv/bin/python"
+else
+  PYTHON="python3"
+fi
+
+PYTHONPATH=src "$PYTHON" scripts/update_readme.py
+
+git add README.md

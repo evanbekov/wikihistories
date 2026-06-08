@@ -1,0 +1,39 @@
+# Local environments
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.fontconfig/
+.matplotlib/
+logs/
+
+# Raw Wikimedia pageview TSVs are too large for git.
+data/raw/pageviews/*
+!data/raw/pageviews/.gitkeep
+
+# Large or easily regenerated intermediates.
+data/interim/
+
+# macOS/editor noise
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python packaging & build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Local configuration & secrets
+.env
+.env.local
+
+# Internal documents
+/Australian climate events on Wikipedia paper.md
+
