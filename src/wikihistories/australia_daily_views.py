@@ -140,9 +140,67 @@ def plot_australia_daily_views(
     import matplotlib.pyplot as plt
 
     fig, ax = plt.subplots(figsize=(12, 9))
-    ax.plot(daily_views["Date"].values, daily_views["Views"].values, linewidth=2)
+    
+    # Plot original daily views with high transparency
+    ax.plot(daily_views["Date"].values, daily_views["Views"].values, color="#1f77b4", alpha=0.2, linewidth=1.5, label="daily views")
 
-    ax.set_title("Total Wikipedia views per day (Australia)", size=26)
+    # Compute sliding window averaged views symmetrically (N = 3, which is 7-day window)
+    views = daily_views["Views"].values
+    L = len(views)
+    averaged_views = []
+    N = 3
+    for i in range(L):
+        k = min(i, L - 1 - i, N)
+        window = views[i-k : i+k+1]
+        averaged_views.append(sum(window) / len(window))
+
+    # Plot the averaged curve in full color
+    ax.plot(daily_views["Date"].values, averaged_views, color="#1f77b4", linewidth=2.5, label="weekly average")
+
+    # Vertical dashed line at the transition between the historical and current datasets
+    boundary_date = pd.Timestamp("2023-02-05")
+    ax.axvline(x=boundary_date, color="black", linestyle="--", linewidth=1.5, alpha=0.7)
+
+    # Text label and arrow under the text pointing left (historical dataset)
+    # Aligning the text to the right of boundary_date - 100 days so it grows leftwards
+    ax.text(
+        boundary_date - pd.Timedelta(days=100),
+        280_000,
+        "historical dataset",
+        ha="right",
+        va="bottom",
+        size=18,
+        color="black",
+    )
+    ax.annotate(
+        "",
+        xy=(boundary_date - pd.Timedelta(days=550), 200_000),
+        xytext=(boundary_date - pd.Timedelta(days=150), 200_000),
+        arrowprops=dict(arrowstyle="->", color="black", lw=1.5),
+    )
+
+    # Text label and arrow under the text pointing right (current dataset)
+    # Aligning the text to the left of boundary_date + 100 days so it grows rightwards
+    ax.text(
+        boundary_date + pd.Timedelta(days=100),
+        280_000,
+        "current dataset",
+        ha="left",
+        va="bottom",
+        size=18,
+        color="black",
+    )
+    ax.annotate(
+        "",
+        xy=(boundary_date + pd.Timedelta(days=500), 200_000),
+        xytext=(boundary_date + pd.Timedelta(days=150), 200_000),
+        arrowprops=dict(arrowstyle="->", color="black", lw=1.5),
+    )
+
+    # Add a clean legend in the upper left corner with some distance
+    ax.legend(loc="upper left", fontsize=18, frameon=False)
+
+    ax.set_title("Total Wikipedia views per day (Australia)", size=26, pad=25)
     ax.set_ylabel("Views", size=26)
     ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"{x:,.0f}"))
     ax.xaxis.set_major_locator(mdates.YearLocator())
@@ -159,6 +217,11 @@ def plot_australia_daily_views(
 
     output_png.parent.mkdir(parents=True, exist_ok=True)
     plt.savefig(output_png, dpi=600)
+    
+    # Save the PDF version as well
+    output_pdf = output_png.with_suffix(".pdf")
+    plt.savefig(output_pdf)
+    
     plt.close(fig)
     return output_png
 
