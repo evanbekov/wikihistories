@@ -270,7 +270,15 @@ def update_australia_pageviews_report(
 ) -> Path:
     data = json.loads(manifest_json.read_text(encoding="utf-8"))
     manifest = BuildManifest(**data)
+    
+    report_values = report_values_from_manifest(manifest)
+    
+    stats_json = PROCESSED_DIR / "project_stats.json"
+    if stats_json.exists():
+        stats_data = json.loads(stats_json.read_text(encoding="utf-8"))
+        report_values.update(stats_data)
+        
     return update_report_section(
         "australia_pageviews",
-        report_values_from_manifest(manifest),
+        report_values,
     )

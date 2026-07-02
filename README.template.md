@@ -19,3 +19,7 @@ Because country-level data features a high degree of granularity, the Wikimedia 
 **Note**: The visible increase in overall daily views following the transition from the historical release to the current release is methodological. The historical dataset only includes rows that exceeded a threshold of 450 daily views, while the current release uses a significantly lower threshold of 90 daily views for low-risk countries such as Australia. This lower threshold means more lower-traffic pages enter the public dataset after 5 February 2023 increasing total count.
 
 ![Total Wikipedia views per day in Australia](outputs/figures/australia_daily_views.png)
+
+Generally, dataset includes pages from all Wikipedia projects, however, {australia_pageviews.en_pages_pct}% pages are from the English Wikipedia (en.wikipedia), this is followed by the Chinese Wikipedia (Wikipedia language edition that uses written vernacular Chinese, zh.wikipedia) with {australia_pageviews.zh_pages_pct}% of pages. The same is true for views with the English Wikipedia responsible for {australia_pageviews.en_views_pct}% of pageviews and the Chinese Wikipedia for {australia_pageviews.zh_views_pct}%.
+
+We categorised Wikipedia pages using methodology specifically developed for this projects. See [categorisation documentation](categorisation.md) for details.

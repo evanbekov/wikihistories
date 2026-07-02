@@ -33,6 +33,12 @@ Build the daily totals:
 .venv/bin/python scripts/build_australia_daily_views.py
 ```
 
+Compute project-specific statistics:
+
+```bash
+.venv/bin/python scripts/compute_project_stats.py
+```
+
 Create the figure:
 
 ```bash
@@ -44,4 +50,5 @@ Create the figure:
 - `data/interim/australia/pageviews/`: Australia-only daily pageview TSVs.
 - `data/processed/australia_daily_views.csv`: daily total views.
 - `data/processed/australia_daily_views_manifest.json`: dataset build metadata.
+- `data/processed/project_stats.json`: project-specific page and view statistics.
 - `outputs/figures/australia_daily_views.png`: rendered figure.
