@@ -1,0 +1,1465 @@
+class_id,label,action,category
+Q35120,entity,split,
+Q488383,object,split,
+Q136433660,entity,split,
+Q103940464,continuant,split,
+Q53617489,independent continuant,split,
+Q4406616,concrete object,split,
+Q132907471,individual item,split,
+Q4406616,concrete object,split,
+Q53617407,material entity,split,
+Q223557,physical object,split,
+Q24229398,being,split,
+Q106559804,person or organization,split,
+Q3778211,legal person,split,
+Q27043950,anatomical entity,split,
+Q66394244,physical anatomical entity,split,
+Q7239,organism,split,
+Q795052,individual,split,
+Q159344,heterotroph,split,
+Q729,Animalia,split,
+Q215627,person,split,
+Q5173,Bilateria,split,
+Q3059449,Nephrozoa,split,
+Q150866,deuterostome,split,
+Q10915,Chordata,split,
+Q25241,Vertebrata,split,
+Q7377,mammal,split,
+Q72638,consumer,split,
+Q7380,primate,split,
+Q635162,Hominidae,split,
+Q171283,Homo,split,
+Q15978631,Homo sapiens,split,
+Q164509,omnivore,split,
+Q5,human,assign,human
+Q30241068,observable entity,split,
+Q483247,phenomenon,split,
+Q3505845,state,split,
+Q813912,condition,split,
+Q18603648,contributing factor,split,
+Q12774177,means,split,
+Q340169,communications media,split,
+Q1799072,method,split,
+Q2695280,technique,split,
+Q372222,human-readable medium,split,
+Q451553,visualization,split,
+Q34508,video recording,split,
+Q10296912,imaging method,split,
+Q34508,video recording,split,
+Q110879246,video work,split,
+Q110879282,video and/or audio work,assign,video and/or audio work
+Q7048977,abstract entity,split,
+Q937228,property,split,
+Q5127848,class,split,
+Q16889133,class,split,
+Q99527517,collective entity,split,
+Q98119401,group or class of physical objects,split,
+Q21871294,group or class of living things,split,
+Q17379835,Wikimedia page outside the main knowledge tree,assign,Wikimedia page outside the main knowledge tree
+Q58778,system,split,
+Q1639378,social system,split,
+Q43229,organization,split,
+Q854457,complex system,split,
+Q43229,organization,split,
+Q246672,mathematical object,split,
+Q602884,social phenomenon,split,
+Q853725,social relation,split,
+Q1139327,rivalry,split,
+Q476300,competition,split,
+Q748349,mathematical structure,split,
+Q217594,class,split,
+Q205464,algebraic structure,split,
+Q134488202,possibly infinitary structure,split,
+Q1851710,structure,split,
+Q205464,algebraic structure,split,
+Q36161,set,split,
+Q864377,multiset,split,
+Q36161,set,split,
+Q841654,competition,split,
+Q23807345,competition,split,
+Q13406554,sports competition,assign,Events
+Q137023128,region,assign,region
+Q123349660,geolocatable entity,assign,geolocatable entity
+C35120,entity (Class Pages),split,
+Q11028,information,split,
+C488383,object (Class Pages),split,
+Q13196193,part,split,
+C136433660,entity (Class Pages),split,
+C7048977,abstract entity (Class Pages),split,
+Q16686448,artificial object,split,
+Q386724,work,split,
+C16686448,artificial object (Class Pages),split,
+Q930933,relation,split,
+C103940464,continuant (Class Pages),split,
+Q1756942,partial function,split,
+Q11348,function,split,
+Q803935,Baire function,split,
+Q91305654,discontinuous function,split,
+Q8963063,discrete function,split,
+Q133250,sequence,split,
+Q52948,interaction,split,
+Q32178211,music organization,assign,music organization
+Q1184244,delict,split,
+Q1456832,violation of law,assign,Events
+Q1293220,physical phenomenon,split,
+Q17320256,physical process,split,
+Q64732777,biological phenomenon,split,
+Q2996394,biological process,split,
+Q1979154,model,split,
+Q12775893,scheme,split,
+Q5962346,classification scheme,split,
+Q24249534,specialised classification scheme,split,
+Q1744559,classification in sports,assign,classification in sports
+Q16521,taxon,assign,taxon
+Q28813620,set,split,
+Q16887380,group,split,
+Q838948,work of art,assign,work of art
+Q3505845,state,split,
+Q813912,condition,split,
+C31464082,source entity (Class Pages),split,
+Q48907157,section of populated place,assign,section of populated place
+Q22269697,multi-organism process,split,
+Q22294683,biological process involved in intraspecies interaction between organisms,split,
+Q921513,social behavior,split,
+Q853725,social relation,split,
+Q1139327,rivalry,assign,Events
+Q14897293,fictional entity,assign,fictional entity
+C3523102,source of information (Class Pages),split,
+C37866906,information resource (Class Pages),split,
+C49848,document (Class Pages),split,
+C732577,publication (Class Pages),split,
+C3331189,"version, edition or translation (Class Pages)",split,
+C286583,manifestation (Class Pages),split,
+C494756,data (Class Pages),split,
+Q1554231,resource,split,
+C178995,HTTP cookie (Class Pages),split,
+P178995,Cookie_(informatique),assign,Cookie_(informatique)
+Q37866906,information resource,split,
+Q49848,document,split,
+Q732577,publication,split,
+Q21146257,type,split,
+Q18603648,contributing factor,split,
+Q5067949,chain of events,assign,Events
+Q2912517,value,split,
+Q67518978,occurrent,split,
+Q309314,quantity,split,
+Q12774177,means,split,
+Q1207505,quality,split,
+Q21170479,possibility,split,
+Q104493,risk,split,
+Q4830453,business,split,
+Q125506646,transfer,split,
+Q7397,software,assign,software
+Q4184950,regularity,split,
+Q2083958,pattern,split,
+Q71550118,individual quantity,split,
+Q107715,physical quantity,split,
+Q609298,social interaction,split,
+Q3482410,group behaviour,split,
+Q388791,group decision-making,split,
+Q189760,voting,assign,Events
+Q10301427,moving image,split,
+Q11424,film,assign,film
+Q839578,group dynamics,split,
+Q180684,conflict,split,
+Q108346082,release group,assign,release group
+Q9332,behavior,split,
+Q4025884,concrete number,split,
+Q7210356,political organization,assign,political organization
+Q179899,topological space,split,
+Q1491995,connected space,split,
+Q11235244,domain,split,
+Q186081,time interval,split,
+Q4438121,sports organization,assign,sports organization
+Q378078,substance,assign,substance
+C30241068,observable entity (Class Pages),split,
+Q151885,concept,split,
+Q131164,Web 2.0,split,
+Q210980,virtual community,assign,virtual community
+C483247,phenomenon (Class Pages),split,
+Q4833865,abstract structure,split,
+Q748349,mathematical structure,split,
+Q205464,algebraic structure,split,
+Q36161,set,split,
+Q217594,class,split,
+Q36161,set,split,
+Q134488202,possibly infinitary structure,split,
+Q1851710,structure,split,
+Q205464,algebraic structure,split,
+Q36161,set,split,
+Q106635272,competition stage,assign,Events
+Q96251598,type of object,split,
+Q111360549,type of physical object,split,
+Q22811462,type of manufactured good,split,
+Q10929058,product model,assign,product model
+Q58415929,spatio-temporal entity,split,
+Q1190554,occurrence,split,
+Q6671777,structure,split,
+Q11514315,historical period,assign,Events
+Q8187769,economic activity,split,
+Q7406919,service,split,
+Q2217301,serial,assign,serial
+Q134602526,group or class of beings,split,
+Q134601875,group or class of people,split,
+Q134261520,group or class of humans,split,
+Q16334295,group of humans,assign,group of humans
+Q783794,company,assign,company
+Q5358816,element,split,
+Q379825,element,split,
+Q44946,point,split,
+Q186408,point in time,split,
+Q5422048,external risk,split,
+Q17489659,group of works,split,
+Q14795564,point in time with respect to recurrent timeframe,assign,Events
+Q221173,outline of academic disciplines,split,
+Q336,science,split,
+Q1656682,event,assign,Events
+Q1799072,method,split,
+Q3249551,process,split,
+Q1914636,activity,split,
+Q29431432,dyad,split,
+Q104086571,first-order class,split,
+Q112193867,class of disease,assign,class of disease
+Q22999537,vehicle family,assign,vehicle family
+Q179899,topological space,split,
+Q17091170,group conflict,split,
+Q2990593,animal behavior,split,
+Q921513,social behavior,split,
+Q123410745,geometric object,split,
+Q1193403,regular space,split,
+Q1191433,completely regular space,split,
+Q1801244,zero-dimensional space,split,
+Q44946,point,split,
+Q186408,point in time,split,
+Q3331189,"version, edition or translation",split,
+Q42848,data,split,
+Q79782,motion,split,
+Q198,war,assign,Events
+Q3622126,conceptual system,split,
+Q2700595,dyad,split,
+Q3695082,sign,split,
+Q1272626,representation,split,
+Q2145290,mental representation,split,
+Q14795564,point in time with respect to recurrent timeframe,split,
+Q1445650,holiday,assign,Events
+Q55983715,organisms known by a particular common name,assign,organisms known by a particular common name
+Q211606,social structure,split,
+Q8205328,artificial physical object,split,
+Q178706,institution,split,
+Q31629,type of sport,assign,type of sport
+Q595523,notion,split,
+Q12558574,point of view,split,
+Q1549152,public institution,assign,public institution
+Q234460,text,split,
+Q118870638,two-dimensional object,split,
+Q478798,image,split,
+Q7725310,series of creative works,assign,series of creative works
+Q17334923,physical location,assign,physical location
+Q10648343,duo,assign,duo
+Q115385384,astronomical body part,assign,astronomical body part
+Q2897903,goods and services,split,
+Q3241045,disease outbreak,assign,Events
+Q7189713,physiological condition,assign,physiological condition
+Q18515440,sports transaction,split,
+Q31603,draft,assign,Events
+Q24334685,mythical entity,assign,mythical entity
+Q123240632,specifically dependent continuant,split,
+Q123241435,realizable entity,split,
+Q4897819,role,split,
+Q2305441,social process,split,
+Q2198779,unit,split,
+Q11953984,linguistic unit,assign,linguistic unit
+Q25404640,spatial object,assign,spatial object
+Q214339,role,assign,role
+C58415929,spatio-temporal entity (Class Pages),split,
+Q86923152,risk source,split,
+Q628523,message,split,
+Q104637332,planned process,split,
+Q11491547,routine,split,
+Q40056,computer program,assign,computer program
+Q609298,social interaction,split,
+Q1132455,hazard,assign,Events
+Q839578,group dynamics,split,
+Q180684,conflict,assign,Events
+Q35825432,converter,split,
+Q11019,machine,assign,machine
+Q1791627,cultural artifact,split,
+Q15621286,intellectual work,split,
+Q28877,goods,split,
+Q26256810,topic,split,
+Q8436,family,assign,family
+Q122764215,personal risk,split,
+Q135268423,generic set,split,
+Q618779,award,assign,Events
+Q6881511,enterprise,assign,enterprise
+C132907471,individual item (Class Pages),split,
+C4406616,concrete object (Class Pages),split,
+Q134480019,proto-agent,split,
+Q1260632,content,split,
+Q33122512,social sciences and humanities,split,
+Q188572,fact,split,
+Q1856757,legal fact,split,
+Q1864008,legal act,split,
+C13196193,part (Class Pages),split,
+Q327055,worker,split,
+Q115431196,violent conflict,assign,Events
+Q88392887,part of a work,split,
+Q2000344,tactic,split,
+Q207645,military tactics,split,
+Q15627509,military organization,assign,military organization
+Q26887428,nation at competition,assign,Events
+Q43339602,travel hazard,assign,Events
+Q21040055,aspect,split,
+C2897903,goods and services (Class Pages),split,
+Q1151067,rule,split,
+Q1047113,field of study,split,
+Q27968055,recurring event edition,assign,Events
+C1293220,physical phenomenon (Class Pages),split,
+Q74817647,aspect in a geographic region,split,
+Q121359,infrastructure,split,
+Q9350592,telecommunications infrastructure,split,
+Q1068715,telecommunications network,split,
+Q141683,broadcast network,assign,broadcast network
+C17320256,physical process (Class Pages),split,
+Q5313720,dumbing down,split,
+Q13579947,misinformation,split,
+Q483677,pseudoscience,split,
+Q189760,voting,assign,Events
+Q170584,project,split,
+Q645883,military operation,assign,Events
+Q13136,reference work,split,
+Q34749,social science,split,
+Q189656,disinformation,split,
+Q159535,conspiracy theory,assign,Events
+Q136772242,type of living thing,split,
+Q136772238,animal type,assign,animal type
+Q1310239,component,split,
+Q203066,relation,split,
+Q130901,binary relation,split,
+Q431289,brand,assign,brand
+Q11348,function,split,
+Q317623,technical standard,assign,technical standard
+Q91305654,discontinuous function,split,
+Q8963063,discrete function,split,
+Q133250,sequence,split,
+Q3251388,continuum,split,
+Q1704572,continuum,split,
+Q112110,emblem,assign,emblem
+Q17537576,creative work,split,
+Q286583,manifestation,split,
+C3505845,state (Class Pages),split,
+Q125598647,continuant type,split,
+Q125598382,independent continuant type,split,
+Q125598210,immaterial entity type,split,
+Q104098715,territorial entity type,assign,territorial entity type
+C99527517,collective entity (Class Pages),split,
+Q740752,transport company,assign,transport company
+Q28108,political system,split,
+Q1298668,science project,split,
+Q116741534,group of video games,split,
+Q7058673,video game series,assign,video game series
+Q12136,disease,assign,disease
+Q124222085,scientific study,split,
+Q3490295,survey study,split,
+Q49958,opinion poll,assign,Events
+Q72070508,group or class of chemical entities,assign,group or class of chemical entities
+Q1298356,egodocument,split,
+Q2267856,personal testimonial,split,
+C2996394,biological process (Class Pages),split,
+Q185363,chronicle,assign,Events
+Q381072,crisis,assign,Events
+Q61788060,human activity,split,
+C813912,condition (Class Pages),split,
+Q18706315,hypothetical entity,split,
+Q85776190,legal process,assign,Events
+Q1379672,evaluation,split,
+Q3433179,natural risk,assign,Events
+Q811701,model series,assign,model series
+Q134995802,type of website,assign,type of website
+Q526719,ranking,split,
+Q43099500,performing arts production,split,
+Q135268494,group of 2,split,
+Q363948,logical contradiction,split,
+Q104813442,disagreement,split,
+Q1255828,controversy,assign,Events
+Q61961344,group of physical objects,split,
+Q15831440,political studies,split,
+Q36442,political science,split,
+Q166542,international relations,split,
+Q1168287,intervention,split,
+Q1293664,open content,split,
+Q1130645,open-source software,assign,open-source software
+Q5919191,military intervention,assign,Events
+C1310239,component (Class Pages),split,
+C18603648,contributing factor (Class Pages),split,
+Q136749248,way,split,
+Q83620,thoroughfare,assign,thoroughfare
+Q1886349,logo,assign,logo
+Q17524420,aspect of history,split,
+Q1554231,resource,split,
+Q22676587,monarchic system,split,
+Q7269,monarchy,split,
+Q1485500,tangible good,split,
+Q55412936,design element,split,
+Q391414,architectural element,assign,architectural element
+Q3030513,disappearance,assign,Events
+Q868404,final good,split,
+Q2548752,collective behavior,split,
+C1322005,natural phenomenon (Class Pages),split,
+Q116968243,non-humanoid,split,
+Q13023682,non-human,split,
+Q24249370,non-human animal,split,
+Q6666023,motion,split,
+Q747883,physical activity,split,
+Q622852,domesticated animal,assign,domesticated animal
+C12774177,means (Class Pages),split,
+Q37866906,information resource,split,
+Q49848,document,split,
+Q1001059,writ,split,
+Q85776190,legal process,split,
+Q6087062,court proceeding,assign,Events
+Q349,sport,split,
+C28877,goods (Class Pages),split,
+Q17376908,languoid,assign,languoid
+Q5067949,chain of events,assign,Events
+Q874405,social group,assign,social group
+Q5589178,regime,split,
+Q7270,republic,assign,republic
+Q17173292,aggregation,split,
+Q390066,object composition,split,
+Q16773055,data aggregation,split,
+Q27948,list,split,
+Q20514253,blockchain,assign,blockchain
+C223557,physical object (Class Pages),split,
+Q71966963,religion or world view,split,
+Q1836700,manufactured good,split,
+Q29374366,active motion,split,
+C3695082,sign (Class Pages),split,
+Q381165,trophy,assign,Events
+Q1681365,non-durable goods,split,
+Q1194058,disposable product,split,
+Q2095,food,assign,food
+Q49773,social movement,assign,Events
+Q12047512,psychological phenomenon,split,
+Q1573906,concert tour,assign,Events
+Q28797,applied science,split,
+C1272626,representation (Class Pages),split,
+Q12737077,occupation,assign,occupation
+Q1347367,aptitude,split,
+Q15911314,association,split,
+Q191067,article,split,
+Q843601,health sciences,split,
+Q11190,medicine,split,
+Q21070598,figure that may or may not be fictional,assign,figure that may or may not be fictional
+Q29441572,heptad,split,
+C64732777,biological phenomenon (Class Pages),split,
+Q47461344,written work,assign,written work
+Q732744,chemical classification,assign,chemical classification
+Q1530022,religious organization,assign,religious organization
+Q4117999,medical practice,split,
+Q100159,euthanasia,split,
+Q17089549,voluntary euthanasia,split,
+Q10737,suicide,assign,Events
+Q15731960,secondary body,split,
+Q80793969,ranked list,assign,Events
+Q1510761,social change,split,
+Q18340964,power,split,
+Q25107,power,split,
+Q49773,social movement,split,
+Q4430243,social organization,split,
+Q1788992,criminal organization,assign,criminal organization
+Q80071,symbol,assign,symbol
+Q163740,nonprofit organization,assign,nonprofit organization
+Q49447,world view,split,
+Q1417149,rule-based system,split,
+Q188889,code,assign,code
+Q5390013,belief system,assign,belief system
+Q12047513,mental process,split,
+Q781413,cognitive process,split,
+C2996394,biological process (Class Pages),split,
+C22299433,multicellular organismal process (Class Pages),split,
+C22269697,multi-organism process (Class Pages),split,
+C2990593,animal behavior (Class Pages),split,
+C22294683,biological process involved in intraspecies interaction between organisms (Class Pages),split,
+C921513,social behavior (Class Pages),split,
+Q1322005,natural phenomenon,split,
+C1434121,animal communication (Class Pages),split,
+C1066689,human communication (Class Pages),split,
+Q7257,ideology,split,
+Q1331926,decision making,split,
+Q12888920,selection,split,
+C609298,social interaction (Class Pages),split,
+Q102205,fluid,split,
+Q1155083,granular material,split,
+Q5193264,cultural behavior,split,
+Q106803732,conduct,split,
+Q2001982,notation,assign,notation
+C25481968,speech act (Class Pages),split,
+C814441,assertion (Class Pages),split,
+C80071,symbol (Class Pages),assign,symbol (Class Pages)
+Q36133,soil,split,
+Q2310214,pitch,assign,pitch
+Q11435,liquid,split,
+Q2101636,political power,split,
+Q2324993,state power,split,
+Q327197,legal transaction,split,
+Q41614,constitutional monarchy,assign,constitutional monarchy
+Q4284762,material flow,split,
+Q7590,transport,split,
+Q388791,group decision-making,split,
+Q189760,voting,assign,Events
+Q12909644,political ideology,split,
+Q40050,drink,assign,drink
+Q15088658,measured quantity value,split,
+Q1949963,statistic,split,
+Q483394,genre,split,
+Q2633862,locomotion,split,
+Q206021,flight,assign,Events
+Q16334298,group of living things,split,
+C965415,performative utterance (Class Pages),split,
+C2620826,declaration (Class Pages),split,
+Q66310127,immaterial component,split,
+Q17176533,software component,assign,software component
+Q608,human sexual behavior,assign,human sexual behavior
+Q21004260,inquiry,assign,Events
+C66394244,physical anatomical entity (Class Pages),split,
+C1425577,promise (Class Pages),split,
+C93288,contract (Class Pages),split,
+C7214489,terms of service (Class Pages),assign,terms of service (Class Pages)
+Q8380731,No label,split,
+Q2927074,internet meme,assign,Events
+Q1491995,connected space,split,
+Q11235244,domain,split,
+Q179461,religious text,assign,religious text
+C86923152,risk source (Class Pages),split,
+Q124964,coalition,split,
+Q1792379,art genre,assign,art genre
+Q43845,businessperson,split,
+Q7991,natural science,split,
+C8205328,artificial physical object (Class Pages),split,
+Q703534,employee,split,
+Q3796928,government employee,split,
+Q212238,civil servant,assign,civil servant
+Q3769299,human behavior,split,
+Q17149090,armed organization,assign,armed organization
+P95,Google,assign,Google
+Q131524,entrepreneur,assign,entrepreneur
+Q186081,time interval,assign,Events
+Q17538258,recreative work,split,
+Q11410,game,assign,game
+Q340169,communications media,split,
+C18706315,hypothetical entity (Class Pages),split,
+Q4,death,assign,Events
+C10675206,ingredient (Class Pages),split,
+C25403900,food ingredient (Class Pages),assign,food ingredient (Class Pages)
+Q8253,fiction,assign,fiction
+Q29430681,triad,split,
+Q2507626,water area,assign,water area
+Q4502142,visual artwork,assign,visual artwork
+Q64732777,biological phenomenon,split,
+Q2996394,biological process,split,
+Q22299433,multicellular organismal process,split,
+Q2990593,animal behavior,split,
+Q177634,community,assign,community
+Q2625603,population,split,
+Q33829,human population,assign,human population
+Q863247,nomenclature,assign,nomenclature
+Q31464082,source entity,split,
+P166502,Seven_deadly_sins,assign,Seven_deadly_sins
+Q93288,contract,split,
+Q16873378,planetary body,assign,planetary body
+Q119649004,published audio work,split,
+Q1555508,radio program,assign,radio program
+Q117865208,additive quantity,split,
+Q2199864,duration,assign,Events
+Q135930417,private data,split,
+Q3702971,personal data,assign,personal data
+Q35798,executive branch,split,
+Q107093029,customer service worker,assign,customer service worker
+P7643119,Supercheap_Auto,assign,Supercheap_Auto
+Q66661745,group of artificial physical objects,split,
+Q2169973,service provider,assign,service provider
+Q1369650,professional sport,split,
+Q15991290,professional sports league,assign,professional sports league
+Q370330,convoy,assign,Events
+C28732711,physical substance (Class Pages),split,
+C35758,matter (Class Pages),split,
+C10547012,common matter (Class Pages),split,
+C6005984,baryonic matter (Class Pages),split,
+C28555911,ordinary matter (Class Pages),split,
+C10683158,substance (Class Pages),split,
+C868404,final good (Class Pages),split,
+Q16145172,trio,split,
+C79529,chemical substance (Class Pages),split,
+C43460564,chemical entity (Class Pages),split,
+C79529,chemical substance (Class Pages),split,
+Q2672648,social conflict,assign,Events
+C1681365,non-durable goods (Class Pages),split,
+Q104127086,memory,split,
+Q9081,knowledge,split,
+Q15893266,former entity,split,
+Q1261026,printed matter,split,
+C7406919,service (Class Pages),split,
+C1194058,disposable product (Class Pages),split,
+C118451828,food and beverage (Class Pages),assign,food and beverage (Class Pages)
+Q1971694,game mode,assign,game mode
+Q29428373,tetrad,split,
+Q475023,exact science,split,
+C7239,organism (Class Pages),split,
+C123240632,specifically dependent continuant (Class Pages),split,
+C123241435,realizable entity (Class Pages),split,
+C4897819,role (Class Pages),split,
+Q219160,couple,assign,couple
+C1781513,position (Class Pages),assign,position (Class Pages)
+Q187931,phrase,assign,phrase
+Q816264,formal science,split,
+Q47146,user interface,assign,user interface
+Q135268501,Group of 7,assign,Group of 7
+C937228,property (Class Pages),split,
+Q11033,mass media,split,
+Q11862829,academic discipline,assign,academic discipline
+Q123421787,plan,split,
+Q1371819,plan,split,
+C21070598,figure that may or may not be fictional (Class Pages),assign,figure that may or may not be fictional (Class Pages)
+C26902962,"products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C) (Class Pages)",assign,"products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C) (Class Pages)"
+P488,Atomic_bombings_of_Hiroshima_and_Nagasaki,assign,Events
+Q117670709,add-on,split,
+Q13473501,collective,split,
+Q362200,accessory,split,
+Q1065579,fashion accessory,split,
+Q2695280,technique,split,
+Q431603,advocacy group,split,
+Q107655869,group of awards,assign,Events
+Q135268500,Group of 6,assign,Group of 6
+Q7406919,service,split,
+Q1273271,e-service,assign,e-service
+Q1318295,narrative,split,
+Q3152824,cultural institution,assign,cultural institution
+Q55753593,sibling trio,assign,sibling trio
+Q10541491,legal form,split,
+Q649732,formal system,split,
+Q192161,formal language,assign,formal language
+Q12142910,fluid flow,split,
+Q123153154,Therapy speak,assign,Therapy speak
+C114023761,polymorphism (Class Pages),assign,polymorphism (Class Pages)
+Q119648442,print-native publication,split,
+Q41298,magazine,assign,magazine
+Q123588392,type of tool,split,
+Q15921555,flight,assign,Events
+Q13442814,scholarly article,split,
+Q7318358,review article,split,
+Q20136634,Wikipedia overview article,assign,Wikipedia overview article
+Q60971579,destructive behavior,split,
+Q124490,violence,assign,Events
+Q80083,humanities,split,
+C2574811,cause (Class Pages),split,
+C214609,material (Class Pages),split,
+Q12483,statistics,split,
+Q2142347,environmental factor,split,
+Q1754533,source text,split,
+Q1063801,tertiary source,split,
+Q13136,reference work,split,
+Q1156854,policy,split,
+Q136410232,research organization,split,
+Q31855,research institute,assign,research institute
+C123349660,geolocatable entity (Class Pages),assign,geolocatable entity (Class Pages)
+Q124078422,weapon type,assign,weapon type
+Q35308049,statistical data,split,
+Q2725376,demographics,assign,demographics
+C58778,system (Class Pages),split,
+Q12184,pandemic,assign,Events
+Q3968640,mental state,split,
+C6671777,structure (Class Pages),split,
+Q732722,vortex,split,
+C1799072,method (Class Pages),split,
+Q6999,astronomical object,assign,astronomical object
+Q451967,intentional human activity,split,
+C1681365,non-durable goods (Class Pages),split,
+C1194058,disposable product (Class Pages),split,
+C2095,food (Class Pages),assign,food (Class Pages)
+Q1292119,style,split,
+Q34394,belief,split,
+C12047512,psychological phenomenon (Class Pages),split,
+C12047513,mental process (Class Pages),split,
+C781413,cognitive process (Class Pages),split,
+C160402,perception (Class Pages),split,
+Q1475848,risk factor,split,
+Q79602,cyclone,assign,Events
+Q1172284,data set,split,
+C25404640,spatial object (Class Pages),split,
+Q10855152,individual organism,split,
+Q546113,public policy,assign,Events
+C26713767,region of space (Class Pages),assign,region of space (Class Pages)
+Q26401003,individual animal,assign,individual animal
+Q926230,effect,split,
+C1931388,cause of death (Class Pages),split,
+Q651943,signifier,split,
+Q82799,name,split,
+C795052,individual (Class Pages),split,
+C215627,person (Class Pages),assign,person (Class Pages)
+Q1860557,self-concept,split,
+Q844569,identity,split,
+Q61685689,tournament system,assign,tournament system
+C67518978,occurrent (Class Pages),split,
+Q609748,emerging communicable disease,assign,emerging communicable disease
+Q1666019,pressure group,split,
+Q24384,season,assign,Events
+Q258403,utterance,split,
+Q965415,performative utterance,split,
+Q2620826,declaration,assign,Events
+Q8513,database,split,
+Q1156831,umbrella organization,assign,umbrella organization
+Q3233801,hate group,assign,hate group
+Q18208034,indicator,split,
+Q19307174,digital distribution platform,split,
+Q63241860,streaming service,assign,streaming service
+P48791260,VFL/AFL_premiership_and_grand_final_statistics,assign,VFL/AFL_premiership_and_grand_final_statistics
+Q484652,international organization,assign,international organization
+Q12890393,incident,assign,Events
+C39546,physical tool (Class Pages),assign,physical tool (Class Pages)
+Q4392985,religious identity,assign,religious identity
+C98119401,group or class of physical objects (Class Pages),split,
+C21871294,group or class of living things (Class Pages),split,
+Q20920559,procedure,split,
+Q600571,abuse,assign,Events
+Q123057055,contest result,split,
+Q2001305,television channel,assign,television channel
+Q1826687,quartet,assign,quartet
+Q211548,locus,split,
+Q123139280,abstract object,split,
+Q1406161,artistic theme,split,
+Q1297322,satellite,assign,satellite
+Q100906234,multinational military coalition,assign,multinational military coalition
+Q1348645,instructional materials,split,
+Q650241,financial institution,assign,financial institution
+Q769620,social action,assign,Events
+Q205961,skill,split,
+Q112826905,class of anatomical entity,split,
+Q87075524,health risk,split,
+Q2424752,product,assign,product
+Q15138389,Wikimedia article page,assign,Wikimedia article page
+Q15265344,broadcaster,assign,broadcaster
+Q34187,religious studies,split,
+Q115144015,religion and society,assign,religion and society
+Q59157079,biographic information,split,
+Q20127274,certain aspects of a person's life,assign,Events
+Q3433185,occupational hazard,split,
+Q629257,work accident,assign,Events
+C3622126,conceptual system (Class Pages),split,
+P6223,Fascism,assign,Fascism
+Q13136,reference work,split,
+Q317623,technical standard,assign,technical standard
+C14915034,course (Class Pages),split,
+P74125210,2020_AFL_draft,assign,Events
+Q179226,equestrianism,split,
+Q902378,equestrian sport,split,
+Q3001412,horse race,assign,Events
+Q994895,technical system,split,
+Q1135789,unintended consequences,split,
+Q2920615,anthropogenic hazard,assign,Events
+Q241317,computing platform,assign,computing platform
+Q22269697,multi-organism process,split,
+Q22294683,biological process involved in intraspecies interaction between organisms,split,
+Q921513,social behavior,split,
+Q609298,social interaction,split,
+P38076,McDonald's,assign,McDonald's
+C122853586,physical component (Class Pages),split,
+Q796194,medical procedure,split,
+Q12132146,No label,split,
+Q41796,sentence,split,
+C115385384,astronomical body part (Class Pages),split,
+C35145263,natural geographic object (Class Pages),assign,natural geographic object (Class Pages)
+P17199349,Casualties_of_the_Russo-Ukrainian_War,assign,Casualties_of_the_Russo-Ukrainian_War
+Q24034552,mathematical concept,split,
+Q774228,design requirement,assign,design requirement
+Q35459920,three-dimensional object,split,
+Q15142889,weapon family,split,
+Q860861,sculpture,assign,sculpture
+Q4470686,decoration,assign,decoration
+Q2574811,cause,split,
+Q2515887,pattern of behavior,split,
+Q11042,culture,split,
+Q1129632,translational motion,split,
+C1132455,hazard (Class Pages),split,
+Q2352616,catalogue,split,
+C1184244,delict (Class Pages),assign,Events
+C2485083,suicide method (Class Pages),assign,suicide method (Class Pages)
+Q11492760,information services,assign,information services
+Q474328,declarative sentence,split,
+Q15116915,show,assign,Events
+Q124809532,internal risk,split,
+Q3972943,publishing,assign,publishing
+Q3948731,web content,assign,Events
+C134601875,group or class of people (Class Pages),split,
+C134261520,group or class of humans (Class Pages),split,
+C16334295,group of humans (Class Pages),split,
+Q159810,economy,assign,economy
+C12136,disease (Class Pages),split,
+Q124757,riot,assign,Events
+C3251388,continuum (Class Pages),split,
+C1704572,continuum (Class Pages),split,
+C102205,fluid (Class Pages),split,
+C11435,liquid (Class Pages),split,
+C40050,drink (Class Pages),assign,drink (Class Pages)
+Q62391930,beauty pageant edition,assign,Events
+C602884,social phenomenon (Class Pages),split,
+C66310125,nonbiological component (Class Pages),split,
+C853725,social relation (Class Pages),split,
+Q207961,shape,split,
+C6423319,knowledge organization system (Class Pages),split,
+Q105948247,knowledge system,split,
+Q17326725,group of companies,assign,group of companies
+Q68619446,written contract,assign,Events
+Q57338471,voters’ association,assign,voters’ association
+Q80006,computer programming,assign,computer programming
+C1656682,event (Class Pages),split,
+C1172284,data set (Class Pages),assign,data set (Class Pages)
+Q51591359,voting result,assign,Events
+C28627,gestation (Class Pages),assign,gestation (Class Pages)
+P41662,Ramadan,assign,Events
+Q12136,disease,assign,disease
+C340169,communications media (Class Pages),split,
+Q6423319,knowledge organization system,split,
+Q131362181,social science concept,split,
+C35825432,converter (Class Pages),split,
+C11019,machine (Class Pages),assign,machine (Class Pages)
+Q117850,doctrine,split,
+Q740464,legal act,assign,Events
+Q1178984,vulnerability,split,
+Q116861721,type of drink,assign,type of drink
+Q3958441,economic sector,split,
+P28406315,SmartBear,assign,SmartBear
+Q116732893,social construct,split,
+Q48277,gender,split,
+Q48264,gender identity,assign,gender identity
+P7603788,State_of_Origin_results_and_statistics,assign,State_of_Origin_results_and_statistics
+Q2198855,cultural movement,split,
+Q12139612,list,split,
+Q108163,proposition,split,
+C182940,dessert (Class Pages),assign,dessert (Class Pages)
+C26907166,temporal entity (Class Pages),split,
+P109973984,2022_AFL_draft,assign,Events
+Q472971,space,split,
+P42388,Zionism,assign,Zionism
+Q1127759,cognitive bias,assign,cognitive bias
+Q483372,paradox,assign,paradox
+Q2097994,municipal corporation,assign,municipal corporation
+Q4189293,rank,assign,rank
+C27043948,material anatomical entity (Class Pages),assign,material anatomical entity (Class Pages)
+C1689296,calamity (Class Pages),assign,Events
+C184303,gift (Class Pages),assign,gift (Class Pages)
+Q878249,alliance,split,
+C1139327,rivalry (Class Pages),split,
+C476300,competition (Class Pages),split,
+C841654,competition (Class Pages),split,
+C23807345,competition (Class Pages),split,
+C13406554,sports competition (Class Pages),assign,Events
+Q1454986,physical system,split,
+Q11204,legislature,split,
+Q184872,recreation,split,
+Q1003030,test,split,
+Q1200977,quaternary sector of the economy,split,
+Q1030034,GLAM,assign,GLAM
+P595841,Member_states_of_NATO,assign,Member_states_of_NATO
+C751989,astronomical phenomenon (Class Pages),split,
+Q11496165,combat technique,split,
+Q3242199,strike,split,
+P107293075,Eshay,assign,Eshay
+Q1826286,religious movement,assign,religious movement
+Q494756,data,split,
+Q179661,medical treatment,split,
+Q208500,principality,assign,principality
+C1554231,resource (Class Pages),split,
+Q189819,ritual,assign,Events
+Q640506,cabinet,assign,Events
+Q8513,database,assign,database
+Q6857862,military strike,split,
+Q678146,bombardment,assign,Events
+C5127848,class (Class Pages),split,
+Q1434121,animal communication,split,
+Q1066689,human communication,split,
+C16889133,class (Class Pages),split,
+Q34104,science and technology,split,
+Q11016,technology,split,
+Q208920,one-dimensional space,split,
+Q161973,curve,split,
+C4531715,emotional process (Class Pages),split,
+C205555,feeling (Class Pages),split,
+C1124198,affection (Class Pages),split,
+C316,love (Class Pages),split,
+C2713053,physical love (Class Pages),split,
+C1190058,physical intimacy (Class Pages),assign,physical intimacy (Class Pages)
+C37038,advertising (Class Pages),assign,advertising (Class Pages)
+Q15053549,gravitationally bound system,assign,gravitationally bound system
+Q17155032,software category,assign,software category
+Q101965,experiment,split,
+P115822280,2023_AFL_draft,assign,Events
+Q132759797,pedagogic institution,split,
+Q2385804,educational institution,assign,educational institution
+Q6138528,political coalition,split,
+Q2110808,religious behaviour,split,
+Q7188,government,split,
+C117670709,add-on (Class Pages),split,
+Q1069280,Regulation of chemicals,assign,Regulation of chemicals
+Q2270606,spiritual practice,split,
+P380,Meta_Platforms,assign,Meta_Platforms
+C362200,accessory (Class Pages),split,
+C1065579,fashion accessory (Class Pages),assign,fashion accessory (Class Pages)
+Q10675206,ingredient,split,
+Q20203388,extremity,split,
+Q25403900,food ingredient,assign,food ingredient
+Q815741,geometric shape,assign,geometric shape
+Q1048607,conviction,split,
+Q901597,public holidays in Canada,assign,Events
+Q367293,convention,split,
+Q20045456,political position,split,
+Q7832362,traditional story,split,
+Q11224256,IP network,assign,IP network
+Q110227435,past occurrence,assign,Events
+P24997544,Lotteries_in_Australia,assign,Lotteries_in_Australia
+Q44342,legend,split,
+C386724,work (Class Pages),split,
+C567555,anomaly (Class Pages),split,
+C3537603,transgression (Class Pages),split,
+Q1931388,cause of death,split,
+Q100742664,sports data,assign,sports data
+Q1167393,economic indicator,assign,economic indicator
+Q12131,disability,assign,disability
+C211606,social structure (Class Pages),split,
+C15621286,intellectual work (Class Pages),split,
+C17537576,creative work (Class Pages),split,
+Q1283504,social engagement,split,
+Q203764,activism,assign,Events
+Q103995117,medical entity type,assign,medical entity type
+C1456832,violation of law (Class Pages),assign,Events
+C17538258,recreative work (Class Pages),split,
+C11410,game (Class Pages),assign,game (Class Pages)
+C2305441,social process (Class Pages),split,
+Q119892838,type of mixture of chemical entities,assign,type of mixture of chemical entities
+Q131841,idea,split,
+Q24334685,mythical entity,assign,mythical entity
+C628523,message (Class Pages),split,
+C1754533,source text (Class Pages),split,
+C1063801,tertiary source (Class Pages),split,
+C13136,reference work (Class Pages),split,
+C317623,technical standard (Class Pages),assign,technical standard (Class Pages)
+Q123345464,type of interaction,split,
+Q11572907,order of succession,assign,order of succession
+Q2366457,department,split,
+Q806880,banner,assign,banner
+Q15057020,engine family,assign,engine family
+Q35749,parliament,assign,parliament
+Q100709275,combat vehicle family,assign,combat vehicle family
+Q47574,unit of measurement,split,
+C1151067,rule (Class Pages),split,
+Q3196,fire,assign,Events
+P3778684,Melbourne_gangland_killings,assign,Events
+Q4026292,action,assign,Events
+Q54445847,type of economic interaction,assign,type of economic interaction
+Q211364,principle,split,
+C651943,signifier (Class Pages),split,
+C82799,name (Class Pages),split,
+Q1866689,configuration,split,
+Q13567909,syzygy,assign,Events
+Q4220917,film award,assign,Events
+Q273182,gold rush,assign,Events
+Q17737,theory,split,
+Q125191,photograph,assign,photograph
+Q31338769,alternative medicine,assign,alternative medicine
+C7748,law (Class Pages),split,
+Q820655,statute,assign,Events
+Q46737,asset,split,
+Q124315169,vehicle functional class,assign,vehicle functional class
+Q29485,error,split,
+Q1400264,artist collective,assign,artist collective
+Q1075,color,assign,color
+Q864928,life sciences,split,
+Q420,biology,split,
+P1065320,Coalition_(Australia),assign,Coalition_(Australia)
+C839546,machine element (Class Pages),split,
+Q14946528,conflation,assign,conflation
+Q11563,number,assign,number
+Q11105360,medium of exchange,split,
+Q8142,currency,assign,currency
+Q251777,custom,split,
+P40540,Zodiac,assign,Zodiac
+Q118733587,type of meteorological phenomenon,assign,type of meteorological phenomenon
+P908144,Wesfarmers,assign,Wesfarmers
+C79782,motion (Class Pages),split,
+C865365,Jim Crow laws (Class Pages),assign,Events
+Q47728,hobby,assign,hobby
+C246672,mathematical object (Class Pages),split,
+C3249551,process (Class Pages),split,
+Q64728694,proposed entity,split,
+Q82821,tradition,split,
+Q2116008,psychological experiment,assign,Events
+Q37765851,by topic,assign,by topic
+Q2141565,situation,split,
+Q5707594,news article,assign,Events
+Q1758354,plot,split,
+Q856663,Bible story,assign,Events
+C5962346,classification scheme (Class Pages),assign,classification scheme (Class Pages)
+Q6031064,information exchange,split,
+P4671205,Academic_grading_in_Australia,assign,Academic_grading_in_Australia
+Q2623243,conceptual model,split,
+Q1166625,mathematical problem,split,
+Q327197,legal transaction,assign,Events
+Q2806437,transport service,assign,transport service
+C2695280,technique (Class Pages),split,
+P209287,Wonders_of_the_World,assign,Wonders_of_the_World
+Q13414953,religious denomination,assign,religious denomination
+Q119822504,technical activity,split,
+Q2252077,shooting,assign,Events
+Q105967696,vaccine type,assign,vaccine type
+Q123261191,optical illusion image,assign,optical illusion image
+Q66374263,religion of an area,assign,religion of an area
+Q621184,problem,split,
+Q115898316,department of a sports club,split,
+Q50846468,sports tour,assign,Events
+P2164870,Eureka_Rebellion,assign,Events
+Q23847174,religious concept,assign,religious concept
+Q6026443,indoor sport,split,
+Q121459946,café game,assign,café game
+P49001162,Ant_Middleton,assign,Ant_Middleton
+Q193946,scientific model,split,
+Q96088545,former geographical object,assign,former geographical object
+P114237880,2022_AFL_Grand_Final,assign,Events
+C7397,software (Class Pages),split,
+C1190554,occurrence (Class Pages),split,
+Q1915979,medal table,assign,medal table
+P1017324,Bushfires_in_Australia,assign,Events
+C2145290,mental representation (Class Pages),split,
+Q5389993,philosophical theory,split,
+Q839578,group dynamics,split,
+Q180684,conflict,assign,Events
+Q74026205,descent,assign,Events
+Q65559775,psychological model,assign,psychological model
+Q126770188,fictional social role,split,
+Q129586945,fictional social position,split,
+Q115580828,fictional analog of an occupation,assign,fictional analog of an occupation
+Q918240,territorial evolution of the British Empire,assign,territorial evolution of the British Empire
+Q427581,intangible asset,split,
+Q1146001,light source,split,
+C1209283,electronic media (Class Pages),assign,electronic media (Class Pages)
+Q268592,industry,assign,industry
+P1976204,Chinese_zodiac,assign,Chinese_zodiac
+Q264965,subculture,assign,subculture
+C60673395,vehicle component (Class Pages),assign,vehicle component (Class Pages)
+Q3918409,proposal,assign,Events
+Q1990987,social theory,assign,social theory
+Q17951,jargon,assign,jargon
+Q16513426,decision,split,
+C4189293,rank (Class Pages),assign,rank (Class Pages)
+C35459920,three-dimensional object (Class Pages),assign,three-dimensional object (Class Pages)
+Q8434,education,split,
+Q74026067,ascent,assign,Events
+C378078,substance (Class Pages),split,
+C28732711,physical substance (Class Pages),split,
+C35758,matter (Class Pages),split,
+Q159595,distance education,split,
+Q28754053,educational website,split,
+Q615699,online encyclopedia,assign,online encyclopedia
+Q100701259,editorial decision,split,
+Q98398200,rejection,split,
+Q7313594,renunciation,assign,Events
+Q2267705,field of study,assign,field of study
+Q273120,protest,assign,Events
+Q28819924,political alignment,assign,political alignment
+Q1213562,adaptation,assign,adaptation
+C16510064,sporting event (Class Pages),assign,Events
+C131841,idea (Class Pages),split,
+Q1792644,art style,assign,art style
+C180684,conflict (Class Pages),split,
+P4692,Renaissance,assign,Events
+P4879987,Beer_in_Australia,assign,Beer_in_Australia
+Q1150070,change,split,
+Q11024,communication,split,
+Q123237961,abortion by country,assign,abortion by country
+C221173,outline of academic disciplines (Class Pages),split,
+C336,science (Class Pages),split,
+Q17450153,animal attack,assign,Events
+Q7268708,qualitative property,split,
+Q282250,qualia,split,
+Q859781,bigotry,assign,bigotry
+Q9415,emotion,assign,emotion
+Q2500638,creator,assign,creator
+Q1047113,field of study,split,
+Q2465832,branch of science,assign,branch of science
+Q276548,secret society,assign,secret society
+Q32090,lifestyle,assign,lifestyle
+Q23387,week,assign,Events
+Q96247293,type of management,assign,type of management
+Q15169167,execution method,assign,execution method
+C10547012,common matter (Class Pages),split,
+C6005984,baryonic matter (Class Pages),split,
+C28555911,ordinary matter (Class Pages),split,
+Q110295396,type of musical instrument,assign,type of musical instrument
+Q1756477,league system,assign,league system
+P96402286,Robodebt_scheme,assign,Robodebt_scheme
+C1485500,tangible good (Class Pages),split,
+Q220659,archaeological artefact,assign,archaeological artefact
+Q98734151,funded product,assign,funded product
+Q372222,human-readable medium,split,
+Q451553,visualization,split,
+Q4204501,historical ethnic group,assign,historical ethnic group
+Q845734,infographics,split,
+Q28923,chart,split,
+Q756820,cult,assign,cult
+P178516,Gucci,assign,Gucci
+Q10372568,society,split,
+Q8425,society,split,
+Q523,star,assign,star
+Q186117,timeline,assign,Events
+Q8432,civilization,assign,civilization
+Q16876989,list of Nigerian comedians,assign,list of Nigerian comedians
+C3968640,mental state (Class Pages),assign,mental state (Class Pages)
+Q732577,publication,split,
+C24334685,mythical entity (Class Pages),assign,mythical entity (Class Pages)
+Q2393196,personality trait,assign,personality trait
+C108163,proposition (Class Pages),split,
+C123524,solstice (Class Pages),assign,Events
+P58155,Four_Horsemen_of_the_Apocalypse,assign,Four_Horsemen_of_the_Apocalypse
+P83164,British_East_India_Company,assign,British_East_India_Company
+C28314507,recurring entity (Class Pages),split,
+C15275719,recurring event (Class Pages),assign,Events
+Q529711,beginning,assign,Events
+Q104911496,Military colours,assign,Military colours
+Q772636,cryptid,assign,cryptid
+C2281940,chemical process (Class Pages),split,
+Q19478619,metaclass,assign,metaclass
+Q122397289,imaginary event,assign,Events
+P1968,F1,assign,F1
+Q47041,biodiversity,assign,biodiversity
+Q786753,personality type,assign,personality type
+Q1417728,trade name,assign,trade name
+Q138341612,time interval with respect to recurring time interval,assign,Events
+C337060,perceptible physical object (Class Pages),assign,perceptible physical object (Class Pages)
+Q136937248,ongoing project,assign,Events
+Q38033430,class of award,assign,Events
+Q27333683,living things in culture,split,
+Q28048894,animals in culture,assign,animals in culture
+C16686022,natural physical object (Class Pages),split,
+P243630,BRICS,assign,BRICS
+C846882,sources of law (Class Pages),split,
+Q17444909,astronomical object type,assign,astronomical object type
+Q23722468,advisory group,assign,Events
+P2087968,MacOS_version_history,assign,MacOS_version_history
+C46737,asset (Class Pages),split,
+C15916459,plea (Class Pages),assign,plea (Class Pages)
+Q154547,duchy,assign,duchy
+Q3482410,group behaviour,split,
+Q79719,license,assign,license
+P15131448,Teetotal,assign,Teetotal
+Q19861951,type of food or dish,assign,type of food or dish
+P47586,Electoral_College_(United_States),assign,Electoral_College_(United_States)
+Q7897387,unrest,assign,Events
+P85785303,Microsoft_Office_Mix,assign,Microsoft_Office_Mix
+C61951,infusion (Class Pages),assign,infusion (Class Pages)
+Q46997958,climate of geographic location,assign,climate of geographic location
+C6666023,motion (Class Pages),split,
+C747883,physical activity (Class Pages),split,
+Q24238356,unknown,assign,unknown
+C2451477,natural material (Class Pages),split,
+Q135268496,group of 4,split,
+Q1443637,tetralogy,assign,tetralogy
+Q1685841,space curve,split,
+Q78262214,closed polygonal chain,split,
+Q37555,polygon,assign,polygon
+Q20984678,eater,split,
+Q29017578,predator,split,
+Q19067,apex predator,assign,apex predator
+Q209287,Wonders of the World,assign,Wonders of the World
+Q2438541,manner of death,split,
+Q4330518,object of study,assign,object of study
+Q33104069,political concept,split,
+P913501,FIFA_Women's_World_Ranking,assign,FIFA_Women's_World_Ranking
+Q3337001,nationality for sports,assign,nationality for sports
+Q1006644,federal government,assign,federal government
+Q61509,travel,assign,Events
+Q1053916,theme,split,
+C2198779,unit (Class Pages),split,
+C11422,toy (Class Pages),assign,toy (Class Pages)
+Q2485083,suicide method,assign,suicide method
+C4303335,program (Class Pages),assign,program (Class Pages)
+Q11471,time,assign,time
+Q717040,Christmas tradition,assign,Events
+C11953984,linguistic unit (Class Pages),assign,linguistic unit (Class Pages)
+Q55568967,biological structure,split,
+Q4936952,anatomical structure,assign,anatomical structure
+Q811683,proposed building or structure,split,
+Q30149195,biblical concept,assign,biblical concept
+C11978,digestion (Class Pages),split,
+C6950796,fermented food (Class Pages),assign,fermented food (Class Pages)
+P1915584,Human_penis_size,assign,Human_penis_size
+Q1762471,rhetorical device,assign,rhetorical device
+Q4127956,second signal system,split,
+Q52946,speech,assign,speech
+P589794,World_Rugby_Rankings,assign,World_Rugby_Rankings
+Q1252971,food manufacturer,assign,food manufacturer
+Q107708444,reinforcement,assign,reinforcement
+C3036574,gender system (Class Pages),assign,gender system (Class Pages)
+C2623243,conceptual model (Class Pages),split,
+P21683250,Kahoot!,assign,Kahoot!
+Q1004,comics,assign,comics
+Q6045936,scientific knowledge,split,
+Q3239681,scientific theory,assign,scientific theory
+Q189349,urban legend,split,
+Q1127126,military alliance,assign,Events
+P124968366,Alameddine_crime_network,assign,Events
+Q1920219,social issue,split,
+Q70477194,mass vaccination,assign,Events
+Q105210,universal law,split,
+Q189533,academic degree,assign,academic degree
+Q408891,scientific law,split,
+Q266237,algebraic curve,split,
+Q37105,line,split,
+Q875399,boundary,assign,boundary
+C28813620,set (Class Pages),split,
+C16887380,group (Class Pages),split,
+Q14952,headgear,assign,headgear
+C193946,scientific model (Class Pages),split,
+C486902,mathematical model (Class Pages),split,
+Q205892,calendar date,assign,Events
+P182477,Nvidia,assign,Nvidia
+Q12898224,vertebrate,split,
+Q110551885,mammal,split,
+Q57812611,captive mammal,assign,captive mammal
+Q1531833,sport association,split,
+Q11422536,international sport governing body,assign,international sport governing body
+C3284399,statistical model (Class Pages),assign,statistical model (Class Pages)
+Q8065,natural disaster,assign,Events
+Q97662530,No label,split,
+Q7748,law,split,
+Q28873709,descriptive statistic,assign,descriptive statistic
+P105773377,COVID-19_pandemic_in_Australia_statistics,assign,COVID-19_pandemic_in_Australia_statistics
+P625713,BHP,assign,BHP
+Q5791104,international crisis,assign,Events
+C1510761,social change (Class Pages),split,
+C49773,social movement (Class Pages),split,
+Q107357104,type of dance,assign,type of dance
+Q7977957,weak n-category,split,
+Q719395,category,split,
+Q121224584,thin category,split,
+Q78054942,preordered set,split,
+Q474715,partially ordered set,assign,partially ordered set
+Q34362,astrology,split,
+Q109483579,Ptolemaic system,split,
+Q40540,zodiac,assign,zodiac
+P5659481,Harmony_Day,assign,Events
+P5061609,Central_Park_jogger_case,assign,Events
+Q26944781,unpublished work,assign,unpublished work
+P191764,Khmer_Rouge,assign,Events
+C43460564,chemical entity (Class Pages),assign,chemical entity (Class Pages)
+Q727002,charter,assign,charter
+Q5962346,classification scheme,assign,classification scheme
+Q2497655,popular literature,assign,popular literature
+Q31836768,model series,assign,model series
+Q2832578,military deception,assign,Events
+C2141565,situation (Class Pages),split,
+Q107289726,collective human activity,assign,Events
+Q63981612,product category,assign,product category
+Q486902,mathematical model,split,
+C621184,problem (Class Pages),split,
+Q1626599,reference range,assign,reference range
+Q11177771,artistic technique,assign,artistic technique
+Q110401282,type of world view,assign,type of world view
+Q63539947,artistic concept,split,
+Q115211517,musical concept,assign,musical concept
+C11460,clothing (Class Pages),assign,clothing (Class Pages)
+Q332102,paranormal,assign,Events
+Q28845870,biological component,split,
+Q25449120,human organ,assign,human organ
+Q13118105,duality,assign,duality
+P22101909,Global_Liveability_Ranking,assign,Global_Liveability_Ranking
+C1914636,activity (Class Pages),split,
+P6186,Communism,assign,Communism
+Q29428403,pentad,assign,pentad
+C210729,electrical element (Class Pages),assign,electrical element (Class Pages)
+Q734611,anti-social behaviour,split,
+Q905726,manipulation,split,
+Q7281,propaganda,split,
+C1379672,evaluation (Class Pages),split,
+P27423,BYD_Auto,assign,BYD_Auto
+Q186619,argument,split,
+Q764,fungi,assign,fungi
+P189062,List_of_states_with_nuclear_weapons,assign,List_of_states_with_nuclear_weapons
+Q2475641,megaproject,assign,Events
+P179515,Maslow's_hierarchy_of_needs,assign,Maslow's_hierarchy_of_needs
+Q3523102,source of information,split,
+Q3750478,historical source,split,
+Q333109,Überrest,split,
+P2283,Microsoft,assign,Microsoft
+Q2085518,format,split,
+Q5891,philosophy,split,
+C110832782,software resource (Class Pages),split,
+C2199864,duration (Class Pages),assign,Events
+C8065,natural disaster (Class Pages),assign,natural disaster (Class Pages)
+Q3685487,interpersonal communication,split,
+Q1066186,study of history,split,
+Q130788,chronology,split,
+Q4358176,council,split,
+C21146257,type (Class Pages),split,
+Q100792256,identifying artifact,assign,identifying artifact
+C55568967,biological structure (Class Pages),split,
+C4936952,anatomical structure (Class Pages),assign,anatomical structure (Class Pages)
+Q5268834,information and communications technology,assign,information and communications technology
+P4578880,1979_Sydney_Ghost_Train_fire,assign,Events
+Q315,language,assign,language
+C110854677,network resource (Class Pages),assign,network resource (Class Pages)
+C88392887,part of a work (Class Pages),split,
+Q113813711,coin type,assign,coin type
+Q122853586,physical component,split,
+Q1437361,form of art,assign,form of art
+C4026292,action (Class Pages),split,
+C43229,organization (Class Pages),split,
+Q905511,secondary source,split,
+Q1631107,bibliography,split,
+C55412936,design element (Class Pages),split,
+Q273057,discography,assign,discography
+C20920559,procedure (Class Pages),split,
+C2995644,result (Class Pages),split,
+C10683158,substance (Class Pages),split,
+C214609,material (Class Pages),split,
+Q3331189,"version, edition or translation",assign,"version, edition or translation"
+C2912517,value (Class Pages),split,
+C391414,architectural element (Class Pages),split,
+Q20665666,conclusion,split,
+Q65943,theorem,assign,theorem
+Q111972893,type of structure,split,
+Q321703,premise,split,
+Q41719,hypothesis,assign,hypothesis
+Q14350,radio station,assign,radio station
+Q8366,algorithm,assign,algorithm
+Q951964,food product,assign,food product
+C309314,quantity (Class Pages),split,
+Q103813670,anatomical structure type,assign,anatomical structure type
+Q12102552,print media,assign,print media
+Q571,book,assign,book
+C864377,multiset (Class Pages),split,
+C2184715,durable good (Class Pages),split,
+C36161,set (Class Pages),split,
+Q25265,Felidae,assign,Felidae
+C71550118,individual quantity (Class Pages),split,
+Q29791211,sport in a geographic region,assign,sport in a geographic region
+Q11460,clothing,assign,clothing
+C111931734,effect (Class Pages),split,
+C52948,interaction (Class Pages),split,
+Q66310125,nonbiological component,split,
+Q185451,strategy,split,
+C28797,applied science (Class Pages),split,
+Q294163,public institution,split,
+Q702269,professional,split,
+C133250,sequence (Class Pages),split,
+C64728693,non-existent entity (Class Pages),split,
+Q11422,toy,assign,toy
+C10273457,equipment (Class Pages),split,
+C125506646,transfer (Class Pages),split,
+Q1781513,position,assign,position
+C768186,sports equipment (Class Pages),assign,sports equipment (Class Pages)
+Q131436,board game,assign,board game
+C159344,heterotroph (Class Pages),assign,heterotroph (Class Pages)
+C107715,physical quantity (Class Pages),split,
+Q2995644,result,split,
+Q2738074,political movement,split,
+Q107359024,class of election,split,
+Q19360703,by country,assign,by country
+Q1228250,line,assign,line
+C796194,medical procedure (Class Pages),assign,medical procedure (Class Pages)
+Q2101619,political slogan,assign,political slogan
+C1920219,social issue (Class Pages),split,
+C20203388,extremity (Class Pages),split,
+C811909,physical technological component (Class Pages),split,
+C2000344,tactic (Class Pages),split,
+Q1071,geography,assign,geography
+C367293,convention (Class Pages),split,
+Q2668072,collection,split,
+Q184148,plug-in,split,
+Q107466928,expansion pack,assign,expansion pack
+Q82955,politician,assign,politician
+Q1778821,cuisine,assign,cuisine
+Q1970309,natural object,split,
+Q3533467,group action,assign,Events
+C178706,institution (Class Pages),split,
+Q6498784,mathematical expression,split,
+Q131714,archetype,assign,archetype
+Q1797813,productive animal,assign,productive animal
+Q16686022,natural physical object,assign,natural physical object
+Q134601727,group of persons,assign,group of persons
+C843601,health sciences (Class Pages),split,
+Q60170135,political alliance,assign,political alliance
+Q18573970,group of paintings,assign,group of paintings
+Q33104129,sociological concept,split,
+C472971,space (Class Pages),split,
+Q19386377,register,assign,register
+C749316,snack (Class Pages),assign,snack (Class Pages)
+Q87167,manuscript,assign,manuscript
+C134480019,proto-agent (Class Pages),split,
+C11190,medicine (Class Pages),split,
+Q3686466,legal conduct,split,
+Q114046,occupation,assign,Events
+Q8134,economics,split,
+C37866906,information resource (Class Pages),split,
+C49848,document (Class Pages),split,
+Q12132,calendar system,split,
+C427581,intangible asset (Class Pages),split,
+C14897293,fictional entity (Class Pages),assign,fictional entity (Class Pages)
+Q25481968,speech act,assign,Events
+Q11999558,perceptual distortion,assign,perceptual distortion
+Q8081,tornado,assign,Events
+Q62079110,subsidiary organization,split,
+Q9261468,organizational subdivision,assign,organizational subdivision
+Q45296117,aircraft type,assign,aircraft type
+C55091441,operation result (Class Pages),split,
+C1150070,change (Class Pages),split,
+C1639378,social system (Class Pages),split,
+Q8162,linguistics,assign,linguistics
+C61788060,human activity (Class Pages),split,
+C105948247,knowledge system (Class Pages),split,
+C5891,philosophy (Class Pages),split,
+Q334166,mode of transport,assign,mode of transport
+Q20742825,cultural depiction,assign,cultural depiction
+C2823610,financial asset (Class Pages),assign,financial asset (Class Pages)
+C213016,thermodynamic process (Class Pages),split,
+C1207505,quality (Class Pages),split,
+Q210729,electrical element,split,
+C33122512,social sciences and humanities (Class Pages),split,
+C451967,intentional human activity (Class Pages),split,
+C1549152,public institution (Class Pages),split,
+C2659904,government organization (Class Pages),assign,government organization (Class Pages)
+C28823,textile (Class Pages),assign,textile (Class Pages)
+Q1387659,school of thought,assign,school of thought
+Q101051813,big and small,split,
+Q2362312,subsystem,split,
+Q2448108,structural system,split,
+Q846882,sources of law,split,
+C251777,custom (Class Pages),split,
+Q681615,syndicate,split,
+Q178790,labor union,assign,labor union
+C2438541,manner of death (Class Pages),split,
+C12136,disease (Class Pages),assign,disease (Class Pages)
+Q30941709,government document,assign,Events
+Q17197366,type of organization,assign,type of organization
+C136749248,way (Class Pages),split,
+C83620,thoroughfare (Class Pages),assign,thoroughfare (Class Pages)
+Q187097,economic geography,split,
+Q1350203,tourism geography,split,
+Q96102071,animal watching site,split,
+Q43501,zoo,assign,zoo
+Q207174,personification,split,
+C29485,error (Class Pages),split,
+C2451477,natural material (Class Pages),split,
+C8063,rock (Class Pages),assign,rock (Class Pages)
+C104637332,planned process (Class Pages),split,
+C9420,thought (Class Pages),split,
+Q3689704,oral communication,split,
+Q11023,engineering,split,
+Q16335296,historical profession,assign,historical profession
+Q751989,astronomical phenomenon,assign,Events
+C1084,noun (Class Pages),assign,noun (Class Pages)
+C1665268,command (Class Pages),assign,command (Class Pages)
+C1454986,physical system (Class Pages),assign,physical system (Class Pages)
+C208920,one-dimensional space (Class Pages),split,
+C161973,curve (Class Pages),assign,curve (Class Pages)
+Q1967459,concours,assign,Events
+C61961344,group of physical objects (Class Pages),split,
+C16334298,group of living things (Class Pages),assign,group of living things (Class Pages)

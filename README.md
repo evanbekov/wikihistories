@@ -2,7 +2,7 @@
 
 This project examines how people in Australia use Wikipedia to understand unexpected events, with a particular focus on natural disasters. It is part of the broader [wikihistories](https://wikihistories.net/) project led by Prof. [Heather Ford](https://profiles.uts.edu.au/Heather.Ford) and supported by ARC Discovery Projects Grant №220100662.
 
-The data analysis for this sub-project was performed by Dr [Ivan Smirnov](smirnov.au).
+The data analysis for this sub-project was performed by Dr [Ivan Smirnov](https://smirnov.au).
 
 Instructions for reproducing the findings and data visualizations are available in [reproduction document](reproduction.md).
 

@@ -1,0 +1,1063 @@
+class_id,label,action,category,status,coverage_pages,coverage_views,coverage_pages_pct,coverage_views_pct
+Q35120,entity,split,,done,,,,
+Q136433660,entity,split,,done,,,,
+Q67518978,occurrent,split,,done,,,,
+Q7048977,abstract entity,split,,done,,,,
+Q1190554,occurrence,split,,done,,,,
+Q937228,property,split,,done,,,,
+Q3249551,process,split,,done,,,,
+Q30241068,observable entity,split,,done,,,,
+Q483247,phenomenon,split,,done,,,,
+Q1914636,activity,split,,done,,,,
+Q4026292,action,split,,done,,,,
+Q61788060,human activity,split,,done,,,,
+Q451967,intentional human activity,split,,done,,,,
+Q930933,relation,split,,done,,,,
+Q52948,interaction,split,,done,,,,
+Q111931734,effect,split,,done,,,,
+Q52948,interaction,split,,done,,,,
+Q488383,object,split,,done,,,,
+Q1150070,change,split,,done,,,,
+Q58415929,spatio-temporal entity,split,,done,,,,
+Q2424752,product,split,,done,,,,
+Q125506646,transfer,split,,done,,,,
+Q2897903,goods and services,split,,done,,,,
+Q103940464,continuant,split,,done,,,,
+Q53617489,independent continuant,split,,done,,,,
+Q8187769,economic activity,split,,done,,,,
+Q602884,social phenomenon,split,,done,,,,
+Q7406919,service,split,,done,,,,
+Q1656682,event,split,,done,,,,
+Q99527517,collective entity,split,,done,,,,
+Q5127848,class,split,,done,,,,
+Q16889133,class,split,,done,,,,
+Q3505845,state,split,,done,,,,
+Q813912,condition,split,,done,,,,
+Q246672,mathematical object,split,,done,,,,
+Q24229398,being,split,,done,,,,
+Q106668099,corporate body,split,,done,,,,
+Q131085629,collective agent,split,,done,,,,
+Q106668099,corporate body,split,,done,,,,
+Q18603648,contributing factor,split,,done,,,,
+Q31464082,source entity,split,,done,,,,
+Q217594,class,split,,done,,,,
+Q748349,mathematical structure,split,,done,,,,
+Q217594,class,split,,done,,,,
+Q4833865,abstract structure,split,,done,,,,
+Q748349,mathematical structure,split,,done,,,,
+Q217594,class,split,,done,,,,
+Q36161,set,split,,done,,,,
+Q205464,algebraic structure,split,,done,,,,
+Q36161,set,split,,done,,,,
+Q864377,multiset,split,,done,,,,
+Q36161,set,split,,done,,,,
+Q134488202,possibly infinitary structure,split,,done,,,,
+Q1851710,structure,split,,done,,,,
+Q205464,algebraic structure,split,,done,,,,
+Q36161,set,split,,done,,,,
+Q853725,social relation,split,,done,,,,
+Q1139327,rivalry,split,,done,,,,
+Q476300,competition,split,,done,,,,
+Q841654,competition,split,,done,,,,
+Q26907166,temporal entity,split,,done,,,,
+Q16686448,artificial object,split,,done,,,,
+Q23807345,competition,split,,done,,,,
+Q13406554,sports competition,assign,sports competition,done,10602,118881684,35.7,35.16
+Q11028,information,split,,done,,,,
+Q1184244,delict,split,,done,,,,
+Q1456832,violation of law,assign,violation of law,done,13073,156671413,44.02,46.33
+Q4184950,regularity,split,,done,,,,
+Q2083958,pattern,split,,done,,,,
+Q9332,behavior,split,,done,,,,
+Q42848,data,split,,done,,,,
+Q188572,fact,split,,done,,,,
+Q1856757,legal fact,split,,done,,,,
+Q1864008,legal act,split,,done,,,,
+Q2990593,animal behavior,split,,done,,,,
+Q921513,social behavior,split,,done,,,,
+Q609298,social interaction,split,,done,,,,
+Q839578,group dynamics,split,,done,,,,
+Q180684,conflict,split,,done,,,,
+Q189760,voting,assign,voting,done,15099,178315974,50.84,52.73
+Q60971579,destructive behavior,split,,done,,,,
+Q124490,violence,split,,done,,,,
+Q115431196,violent conflict,split,,done,,,,
+Q71266556,warfare and armed conflicts,split,,done,,,,
+Q350604,armed conflict,assign,armed conflict,done,16016,194987065,53.93,57.66
+Q2995644,result,split,,done,,,,
+Q1121708,failure,split,,done,,,,
+Q1689296,calamity,split,,done,,,,
+Q151885,concept,split,,done,,,,
+Q15275719,recurring event,split,,done,,,,
+Q132907471,individual item,split,,done,,,,
+Q4406616,concrete object,split,,done,,,,
+Q223557,physical object,split,,done,,,,
+Q8205328,artificial physical object,split,,done,,,,
+Q1791627,cultural artifact,split,,done,,,,
+Q618779,award,assign,award,done,16751,202715622,56.4,59.95
+Q3622126,conceptual system,split,,done,,,,
+Q105948247,knowledge system,split,,done,,,,
+Q1047113,field of study,split,,done,,,,
+Q3839081,disaster,split,,done,,,,
+Q123349660,geolocatable entity,split,,done,,,,
+Q123349687,geographically localized event,split,,done,,,,
+Q115668308,release,split,,done,,,,
+Q732577,publication,split,,done,,,,
+Q3331189,"version, edition or translation",split,,done,,,,
+Q878143,value,split,,done,,,,
+Q868257,economic value,split,,done,,,,
+Q678774,employee benefit,split,,done,,,,
+Q7124679,paid time off,split,,done,,,,
+Q1197685,public holiday,assign,public holiday,done,16873,208330607,56.81,61.61
+Q1445650,holiday,assign,holiday,done,17197,213557965,57.9,63.16
+Q3241045,disease outbreak,assign,disease outbreak,done,17270,218627897,58.15,64.66
+Q2305441,social process,split,,done,,,,
+Q7551318,social procedure,split,,done,,,,
+Q31603,draft,assign,draft,done,17359,223588090,58.45,66.12
+Q5067949,chain of events,split,,done,,,,
+Q104637332,planned process,split,,done,,,,
+Q178561,battle,assign,battle,done,18436,228056036,62.08,67.44
+Q286583,manifestation,split,,done,,,,
+Q43099500,performing arts production,split,,done,,,,
+Q7777570,theatrical production,split,,done,,,,
+Q18699055,repetition,split,,done,,,,
+Q28314507,recurring entity,split,,done,,,,
+Q58483083,dramatico-musical work,assign,Non-Events (dramatico-musical work),done,18734,232292255,63.08,68.7
+Q3769299,human behavior,split,,done,,,,
+Q6423319,knowledge organization system,split,,done,,,,
+Q5962346,classification scheme,split,,done,,,,
+Q24249534,specialised classification scheme,split,,done,,,,
+Q1744559,classification in sports,split,,done,,,,
+Q327245,team,split,,done,,,,
+Q12973014,sports team,split,,done,,,,
+Q46135307,nation at sport competition,assign,nation at sport competition,done,19320,235939686,65.05,69.78
+Q645883,military operation,assign,military operation,done,19548,239271027,65.82,70.76
+Q5313720,dumbing down,split,,done,,,,
+Q170584,project,split,,done,,,,
+Q221173,outline of academic disciplines,split,,done,,,,
+Q336,science,split,,done,,,,
+Q171558,accident,split,,done,,,,
+Q189656,disinformation,split,,done,,,,
+Q159535,conspiracy theory,assign,conspiracy theory,done,19610,242316875,66.03,71.66
+Q628523,message,split,,done,,,,
+Q2245405,key event,split,,done,,,,
+Q2627975,ceremony,split,,done,,,,
+Q15275719,recurring event,split,,done,,,,
+Q11822042,transport accident,assign,transport accident,done,20174,245000798,67.93,72.46
+Q3533467,group action,split,,done,,,,
+Q14795564,point in time with respect to recurrent timeframe,assign,point in time with respect to recurrent timeframe,done,20540,247619747,69.16,73.23
+Q1298668,science project,split,,done,,,,
+Q124222085,scientific study,split,,done,,,,
+Q3490295,survey study,split,,done,,,,
+Q49958,opinion poll,assign,opinion poll,done,20620,250214472,69.43,74.0
+Q1066689,human communication,split,,done,,,,
+Q1318295,narrative,split,,done,,,,
+Q1145106,recorded history,split,,done,,,,
+Q30277550,historiography,split,,done,,,,
+Q185363,chronicle,split,,done,,,,
+Q18340514,events in a specific year or time period,assign,events in a specific year or time period,done,20816,252757432,70.09,74.75
+Q3685487,interpersonal communication,split,,done,,,,
+Q3689704,oral communication,split,,done,,,,
+Q3030248,discussion,split,,done,,,,
+Q179875,debate,split,,done,,,,
+Q1255828,controversy,assign,controversy,done,20979,255289793,70.64,75.5
+Q4504495,award ceremony,assign,award ceremony,done,21573,257703814,72.64,76.21
+Q3965271,subclass,split,,done,,,,
+Q177646,subset,split,,done,,,,
+Q127244,Gδ set,split,,done,,,,
+Q213363,open set,split,,done,,,,
+Q11235244,domain,split,,done,,,,
+Q186081,time interval,split,,done,,,,
+Q121010900,order-convex set,split,,done,,,,
+Q185148,interval,split,,done,,,,
+Q186081,time interval,split,,done,,,,
+C35120,entity (Class Pages),split,,done,,,,
+C7048977,abstract entity (Class Pages),split,,done,,,,
+Q33122512,social sciences and humanities,split,,done,,,,
+Q34749,social science,split,,done,,,,
+Q15831440,political studies,split,,done,,,,
+Q36442,political science,split,,done,,,,
+Q166542,international relations,split,,done,,,,
+Q1168287,intervention,split,,done,,,,
+Q5919191,military intervention,assign,military intervention,done,21645,259926481,72.88,76.87
+Q49773,social movement,assign,social movement,done,21921,262017421,73.81,77.49
+Q131362181,social science concept,split,,done,,,,
+Q2447975,strife,split,,done,,,,
+Q3030513,disappearance,assign,disappearance,done,22021,264005251,74.15,78.08
+Q381072,crisis,split,,done,,,,
+Q327197,legal transaction,split,,done,,,,
+Q2334719,legal case,assign,legal case,done,22363,267256630,75.3,79.04
+Q168983,conflagration,split,,done,,,,
+Q132241,festival,assign,festival,done,22512,269156566,75.8,79.6
+Q11514315,historical period,assign,historical period,done,22642,271005906,76.24,80.15
+Q627436,field of work,split,,done,,,,
+Q1573906,concert tour,assign,concert tour,done,22927,272840447,77.2,80.69
+Q1260632,content,split,,done,,,,
+Q27968055,recurring event edition,split,,done,,,,
+Q1379672,evaluation,split,,done,,,,
+Q526719,ranking,split,,done,,,,
+Q80793969,ranked list,split,,done,,,,
+Q11483816,annual event,split,,done,,,,
+Q169950,wildfire,assign,wildfire,done,22990,274244592,77.41,81.1
+Q5070802,emergency,split,,done,,,,
+Q29374366,active motion,split,,done,,,,
+Q2633862,locomotion,split,,done,,,,
+Q206021,flight,split,,done,,,,
+Q29056927,public health emergency,split,,done,,,,
+Q59485450,global health emergency,split,,done,,,,
+Q17076801,public health emergency of international concern,assign,public health emergency of international concern,done,22992,275570795,77.42,81.5
+Q3193890,environmental disaster,assign,environmental disaster,done,22996,276875891,77.43,81.88
+Q21004260,inquiry,assign,inquiry,done,23012,278171693,77.48,82.26
+Q2927074,internet meme,assign,internet meme,done,23087,279437051,77.74,82.64
+Q111752858,physicochemical process,split,,done,,,,
+Q17320256,physical process,split,,done,,,,
+Q79782,motion,split,,done,,,,
+Q373899,record chart,assign,record chart,done,23143,280622386,77.93,82.99
+Q8065,natural disaster,assign,natural disaster,done,23370,281765774,78.69,83.33
+Q4,death,assign,death,done,23499,282893892,79.12,83.66
+Q1151067,rule,split,,done,,,,
+Q17524420,aspect of history,split,,done,,,,
+Q273120,protest,assign,protest,done,23774,283991736,80.05,83.99
+Q5916,spaceflight,assign,spaceflight,done,23871,285042224,80.38,84.3
+Q18033462,calendar awareness event,assign,calendar awareness event,done,23987,286047572,80.77,84.59
+Q4284762,material flow,split,,done,,,,
+Q7590,transport,split,,done,,,,
+Q370330,convoy,assign,convoy,done,23990,286990513,80.78,84.87
+Q63313685,history of a geographic region,assign,history of a geographic region,done,24076,287925558,81.07,85.15
+Q38885242,physico-chemical property,split,,done,,,,
+Q4373292,physical property,split,,done,,,,
+Q107715,physical quantity,split,,done,,,,
+Q28797,applied science,split,,done,,,,
+Q843601,health sciences,split,,done,,,,
+Q11190,medicine,split,,done,,,,
+Q4117999,medical practice,split,,done,,,,
+Q100159,euthanasia,split,,done,,,,
+Q17089549,voluntary euthanasia,split,,done,,,,
+Q10737,suicide,assign,suicide,done,24145,288844401,81.3,85.42
+C136433660,entity (Class Pages),split,,done,,,,
+C67518978,occurrent (Class Pages),split,,done,,,,
+C1190554,occurrence (Class Pages),split,,done,,,,
+C3249551,process (Class Pages),split,,done,,,,
+C30241068,observable entity (Class Pages),split,,done,,,,
+C483247,phenomenon (Class Pages),split,,done,,,,
+Q1174599,attack,split,,done,,,,
+Q7944,earthquake,assign,earthquake,done,24252,289701382,81.66,85.67
+Q2217301,serial,split,,done,,,,
+Q740464,legal act,assign,legal act,done,24540,290544191,82.63,85.92
+Q16513426,decision,split,,done,,,,
+Q4025884,concrete number,assign,concrete number,done,24541,291362181,82.63,86.17
+Q741507,severe weather,split,,done,,,,
+Q1277161,extreme weather event,assign,extreme weather event,done,24645,292133608,82.98,86.39
+Q180910,leisure,split,,done,,,,
+Q778483,trip,split,,done,,,,
+Q15921555,flight,assign,flight,done,24648,292885004,82.99,86.62
+Q44512,epidemic,assign,epidemic,done,24659,293622987,83.03,86.83
+Q5153967,communal violence,assign,communal violence,done,24667,294338026,83.06,87.05
+Q138341156,recurring time interval,split,,done,,,,
+Q1156854,policy,split,,done,,,,
+Q546113,public policy,assign,public policy,done,24867,295030603,83.73,87.25
+Q258403,utterance,split,,done,,,,
+Q965415,performative utterance,split,,done,,,,
+Q2620826,declaration,assign,declaration,done,24899,295709259,83.84,87.45
+Q1002697,periodical,assign,Non-Events (periodical),done,24946,296365270,84.0,87.65
+Q13196193,part,split,,done,,,,
+Q73712380,wildfire season,assign,wildfire season,done,24971,297010625,84.08,87.84
+Q12890393,incident,split,,done,,,,
+Q600571,abuse,assign,abuse,done,25005,297626746,84.19,88.02
+P181817,Saint_Patrick's_Day,assign,Saint_Patrick's_Day,done,25006,298239993,84.2,88.2
+Q13427241,decision,split,,done,,,,
+Q327000,court decision,assign,court decision,done,25069,298830236,84.41,88.37
+Q58778,system,split,,done,,,,
+Q1639378,social system,split,,done,,,,
+Q43229,organization,split,,done,,,,
+Q854457,complex system,split,,done,,,,
+Q43229,organization,split,,done,,,,
+Q1135789,unintended consequences,split,,done,,,,
+Q2920615,anthropogenic hazard,assign,anthropogenic hazard,done,25096,299407815,84.5,88.55
+Q59157079,biographic information,split,,done,,,,
+Q20127274,certain aspects of a person's life,assign,certain aspects of a person's life,done,25189,299984580,84.81,88.72
+P74125210,2020_AFL_draft,assign,2020_AFL_draft,done,25190,300547612,84.82,88.88
+Q3186692,calendar year,assign,calendar year,done,25250,301108973,85.02,89.05
+Q3695082,sign,split,,done,,,,
+Q1272626,representation,split,,done,,,,
+Q2145290,mental representation,split,,done,,,,
+Q595523,notion,split,,done,,,,
+Q12558574,point of view,split,,done,,,,
+C1184244,delict (Class Pages),split,,done,,,,
+C1456832,violation of law (Class Pages),split,,done,,,,
+Q2620513,maritime disaster,assign,maritime disaster,done,25288,301627937,85.15,89.2
+Q3948731,web content,assign,web content,done,25293,302138871,85.16,89.35
+Q1550225,mining accident,assign,mining accident,done,25311,302647991,85.23,89.5
+Q846882,sources of law,split,,done,,,,
+Q1665268,command,split,,done,,,,
+Q216200,legal norm,split,,done,,,,
+Q1001059,writ,split,,done,,,,
+Q85776190,legal process,split,,done,,,,
+Q6087062,court proceeding,assign,court proceeding,done,25352,303155162,85.36,89.65
+P131772,Chinese_New_Year,assign,Chinese_New_Year,done,25353,303649855,85.37,89.8
+Q93288,contract,split,,done,,,,
+Q68619446,written contract,split,,done,,,,
+Q131569,treaty,assign,treaty,done,25531,304137290,85.97,89.94
+Q123057055,contest result,split,,done,,,,
+Q51591359,voting result,assign,voting result,done,25713,304608483,86.58,90.08
+Q35140,performance,assign,performance,done,25749,305079538,86.7,90.22
+P41662,Ramadan,assign,Ramadan,done,25750,305545581,86.7,90.36
+Q63981919,sport rivalry,assign,sport rivalry,done,25831,306010439,86.98,90.5
+P109973984,2022_AFL_draft,assign,2022_AFL_draft,done,25832,306455693,86.98,90.63
+Q133868917,sneak attack,assign,sneak attack,done,25833,306894923,86.98,90.76
+Q3002772,political crisis,assign,political crisis,done,25862,307329105,87.08,90.89
+C83267,crime (Class Pages),split,,done,,,,
+C602884,social phenomenon (Class Pages),split,,done,,,,
+C853725,social relation (Class Pages),split,,done,,,,
+C1139327,rivalry (Class Pages),split,,done,,,,
+C476300,competition (Class Pages),split,,done,,,,
+C841654,competition (Class Pages),split,,done,,,,
+C13406554,sports competition (Class Pages),assign,Non-Events (sports competition (Class Pages)),done,25903,307757702,87.22,91.01
+C103940464,continuant (Class Pages),split,,done,,,,
+C53617489,independent continuant (Class Pages),split,,done,,,,
+Q179057,explosion,split,,done,,,,
+Q1207505,quality,split,,done,,,,
+Q1347367,aptitude,split,,done,,,,
+Q18340964,power,split,,done,,,,
+Q25107,power,split,,done,,,,
+Q2101636,political power,split,,done,,,,
+Q2324993,state power,split,,done,,,,
+Q35798,executive branch,split,,done,,,,
+Q640506,cabinet,assign,cabinet,done,25970,308163393,87.44,91.13
+Q9687,traffic collision,assign,traffic collision,done,26002,308563669,87.55,91.25
+P115822280,2023_AFL_draft,assign,2023_AFL_draft,done,26003,308953750,87.56,91.37
+Q6056746,campaign,assign,campaign,done,26063,309333082,87.76,91.48
+Q901597,public holidays in Canada,assign,public holidays in Canada,done,26064,309704812,87.76,91.59
+Q189819,ritual,split,,done,,,,
+Q110227435,past occurrence,split,,done,,,,
+Q13418847,historical event,assign,historical event,done,26076,310070925,87.8,91.7
+P30637034,Fyre_Festival,assign,Fyre_Festival,done,26077,310434114,87.8,91.81
+Q20203388,extremity,split,,done,,,,
+Q55358140,caving incident,assign,caving incident,done,26081,310789197,87.82,91.91
+Q529711,beginning,split,,done,,,,
+P3778684,Melbourne_gangland_killings,assign,Melbourne_gangland_killings,done,26082,311126796,87.82,92.01
+Q141022,eclipse,assign,eclipse,done,26141,311457857,88.02,92.11
+Q273182,gold rush,assign,gold rush,done,26146,311787574,88.04,92.21
+Q80071,symbol,split,,done,,,,
+Q1128637,national symbol,split,,done,,,,
+Q57598,national day,assign,national day,done,26170,312112193,88.12,92.3
+Q820655,statute,assign,statute,done,26251,312433374,88.39,92.4
+C488383,object (Class Pages),split,,done,,,,
+C628523,message (Class Pages),split,,done,,,,
+C1151067,rule (Class Pages),split,,done,,,,
+C16686448,artificial object (Class Pages),split,,done,,,,
+C1151067,rule (Class Pages),split,,done,,,,
+Q7692360,volcanic eruption,assign,volcanic eruption,done,26275,312747010,88.47,92.49
+C7748,law (Class Pages),assign,law (Class Pages),done,26276,313053928,88.47,92.58
+Q3002150,aircraft crash,assign,aircraft crash,done,26338,313360678,88.68,92.67
+Q1003030,test,split,,done,,,,
+Q101965,experiment,split,,done,,,,
+Q2116008,psychological experiment,assign,psychological experiment,done,26352,313663031,88.73,92.76
+Q12142910,fluid flow,split,,done,,,,
+Q205879,circulation,split,,done,,,,
+Q732722,vortex,split,,done,,,,
+Q79602,cyclone,assign,cyclone,done,26402,313965216,88.9,92.85
+Q108886259,Formula One event,assign,Formula One event,done,26419,314262694,88.96,92.94
+Q108284447,aviation accident or incident,assign,aviation accident or incident,done,26471,314556595,89.13,93.03
+Q88392887,part of a work,split,,done,,,,
+Q191067,article,split,,done,,,,
+Q5707594,news article,assign,news article,done,26502,314849863,89.24,93.11
+Q1758354,plot,split,,done,,,,
+Q856663,Bible story,assign,Bible story,done,26553,315142798,89.41,93.2
+Q10931,revolution,assign,revolution,done,26589,315435354,89.53,93.29
+Q119822504,technical activity,split,,done,,,,
+Q2252077,shooting,assign,shooting,done,26605,315720151,89.58,93.37
+Q71966963,religion or world view,split,,done,,,,
+Q49447,world view,split,,done,,,,
+Q7257,ideology,split,,done,,,,
+Q12909644,political ideology,split,,done,,,,
+P2164870,Eureka_Rebellion,assign,Eureka_Rebellion,done,26606,316001282,89.59,93.45
+P114237880,2022_AFL_Grand_Final,assign,2022_AFL_Grand_Final,done,26607,316277804,89.59,93.53
+C1150070,change (Class Pages),split,,done,,,,
+Q106955175,passenger flight,assign,passenger flight,done,26608,316552529,89.59,93.62
+Q21040055,aspect,split,,done,,,,
+Q74817647,aspect in a geographic region,split,,done,,,,
+P1017324,Bushfires_in_Australia,assign,Bushfires_in_Australia,done,26609,316824610,89.6,93.7
+Q898830,processional parade,split,,done,,,,
+P64509602,2019_Hong_Kong_anti-extradition_bill_protests,assign,2019_Hong_Kong_anti-extradition_bill_protests,done,26610,317087145,89.6,93.77
+Q12786121,warfare,split,,done,,,,
+Q99654400,launch failure,assign,launch failure,done,26611,317343957,89.6,93.85
+Q657449,parade,split,,done,,,,
+Q348120,amphibious warfare,split,,done,,,,
+C24229398,being (Class Pages),split,,done,,,,
+C131085629,collective agent (Class Pages),split,,done,,,,
+C106668099,corporate body (Class Pages),split,,done,,,,
+C841654,competition (Class Pages),split,,done,,,,
+C13406554,sports competition (Class Pages),split,,done,,,,
+C16510064,sporting event (Class Pages),split,,done,,,,
+C79782,motion (Class Pages),split,,done,,,,
+Q17450153,animal attack,assign,animal attack,done,26614,317587663,89.61,93.92
+Q100701259,editorial decision,assign,editorial decision,done,26615,317826234,89.62,93.99
+C50156634,pathogen spread (Class Pages),split,,done,,,,
+C44512,epidemic (Class Pages),split,,done,,,,
+C12184,pandemic (Class Pages),split,,done,,,,
+Q175331,demonstration,assign,demonstration,done,26662,318060106,89.77,94.06
+P1944136,Lunar_New_Year,assign,Lunar_New_Year,done,26663,318293722,89.78,94.13
+Q6671777,structure,split,,done,,,,
+Q959962,diagram,split,,done,,,,
+Q28923,chart,split,,done,,,,
+Q186117,timeline,assign,timeline,done,26698,318524010,89.9,94.2
+Q1255828,controversy,split,,done,,,,
+Q7311342,religious controversy,split,,done,,,,
+Q1827102,religious war,assign,religious war,done,26709,318751238,89.93,94.27
+C1322005,natural phenomenon (Class Pages),split,,done,,,,
+C751989,astronomical phenomenon (Class Pages),split,,done,,,,
+C123524,solstice (Class Pages),assign,solstice (Class Pages),done,26714,318977780,89.95,94.33
+C118496986,sports match (Class Pages),assign,sports match (Class Pages),done,26722,319204164,89.98,94.4
+P493078,The_World's_Billionaires,assign,The_World's_Billionaires,done,26723,319429631,89.98,94.47
+P12184,Pandemic,assign,Non-Events,done,26724,319650308,89.98,94.53
+Q136937248,ongoing project,assign,ongoing project,done,26726,319868822,89.99,94.6
+Q23722468,advisory group,assign,advisory group,done,26728,320084348,90.0,94.66
+C58415929,spatio-temporal entity (Class Pages),split,,done,,,,
+C26907166,temporal entity (Class Pages),split,,done,,,,
+Q22222786,government program,assign,government program,done,26772,320292712,90.14,94.72
+Q3482410,group behaviour,split,,done,,,,
+Q7897387,unrest,assign,unrest,done,26783,320499486,90.18,94.78
+Q2692606,cyclic process,split,,done,,,,
+Q3517779,liturgical season,assign,liturgical season,done,26788,320700697,90.2,94.84
+Q7023752,scam,split,,done,,,,
+P16470,D-Day,assign,D-Day,done,26789,320897802,90.2,94.9
+P131036,Scientology,assign,Non-Events,done,26790,321093977,90.21,94.96
+Q6999,astronomical object,split,,done,,,,
+Q523,star,split,,done,,,,
+Q3937,supernova,assign,supernova,done,26796,321287444,90.23,95.02
+Q2434238,heritage,split,,done,,,,
+Q82821,tradition,split,,done,,,,
+Q717040,Christmas tradition,assign,Christmas tradition,done,26817,321480830,90.3,95.07
+Q277759,book series,assign,Non-Events (book series),done,26836,321672749,90.36,95.13
+Q878249,alliance,split,,done,,,,
+Q1127126,military alliance,assign,military alliance,done,26846,321863462,90.39,95.19
+P124968366,Alameddine_crime_network,assign,Non-Events,done,26847,322053563,90.4,95.24
+C2897903,goods and services (Class Pages),split,,done,,,,
+C7406919,service (Class Pages),split,,done,,,,
+C1656682,event (Class Pages),split,,done,,,,
+C15275719,recurring event (Class Pages),split,,done,,,,
+Q168247,famine,assign,famine,done,26863,322237948,90.45,95.3
+C567555,anomaly (Class Pages),split,,done,,,,
+C3537603,transgression (Class Pages),split,,done,,,,
+C1456832,violation of law (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1184244,delict (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1456832,violation of law (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1184244,delict (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1456832,violation of law (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1184244,delict (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1456832,violation of law (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1184244,delict (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1456832,violation of law (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1184244,delict (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1456832,violation of law (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),split,,done,,,,
+C1184244,delict (Class Pages),split,,done,,,,
+C83267,crime (Class Pages),assign,Non-Events (crime (Class Pages)),done,26921,322451867,90.65,95.36
+Q18706315,hypothetical entity,split,,done,,,,
+P5659481,Harmony_Day,assign,Harmony_Day,done,26922,322629732,90.65,95.41
+Q30111082,political event,assign,political event,done,26983,322807398,90.85,95.47
+P5061609,Central_Park_jogger_case,assign,Central_Park_jogger_case,done,26984,322985001,90.86,95.52
+P191764,Khmer_Rouge,assign,Non-Events,done,26985,323161981,90.86,95.57
+Q27968043,festival occurrence,assign,festival occurrence,done,27000,323337599,90.91,95.62
+Q97662530,No label,split,,done,,,,
+Q2832578,military deception,split,,done,,,,
+Q2548752,collective behavior,split,,done,,,,
+Q107289726,collective human activity,split,,done,,,,
+P814484,Dyatlov_Pass_incident,assign,Dyatlov_Pass_incident,done,27001,323509611,90.92,95.67
+Q17091170,group conflict,split,,done,,,,
+P1130522,Operation_Mincemeat,assign,Operation_Mincemeat,done,27002,323679245,90.92,95.72
+Q120703165,series of weather events,split,,done,,,,
+Q27491541,tropical cyclone season,assign,tropical cyclone season,done,27057,323845721,91.1,95.77
+P28452845,Hadestown,assign,Non-Events,done,27058,324010434,91.11,95.82
+Q2672648,social conflict,split,,done,,,,
+Q2475641,megaproject,assign,megaproject,done,27069,324172807,91.14,95.87
+Q5051574,catastrophic failure,split,,done,,,,
+P234132,Hillsborough_disaster,assign,Hillsborough_disaster,done,27070,324333821,91.15,95.92
+C830077,subject (Class Pages),split,,done,,,,
+C618536,candidate (Class Pages),split,,done,,,,
+C5165152,contestant (Class Pages),split,,done,,,,
+C26887428,nation at competition (Class Pages),split,,done,,,,
+C54802199,nation in the Eurovision competition (Class Pages),assign,nation in the Eurovision competition (Class Pages),done,27072,324494773,91.15,95.96
+Q24334685,mythical entity,split,,done,,,,
+Q24336466,mythical event,assign,mythical event,done,27080,324655136,91.18,96.01
+Q5791104,international crisis,split,,done,,,,
+Q288514,fair,assign,fair,done,27084,324814696,91.19,96.06
+Q28530236,taking office,assign,taking office,done,27112,324973587,91.29,96.11
+Q1208555,No label,split,,done,,,,
+Q117488,criminal justice,split,,done,,,,
+Q132781,torture,split,,done,,,,
+Q106518893,entity in event,split,,done,,,,
+Q61130878,nation at occurrence,split,,done,,,,
+Q26887428,nation at competition,split,,done,,,,
+P47460535,Turpin_case,assign,Turpin_case,done,27113,325130534,91.29,96.15
+Q5683226,environmental conflict,assign,environmental conflict,done,27118,325286077,91.31,96.2
+P4578880,1979_Sydney_Ghost_Train_fire,assign,1979_Sydney_Ghost_Train_fire,done,27119,325441263,91.31,96.24
+Q54802199,nation in the Eurovision competition,assign,nation in the Eurovision competition,done,27243,325594955,91.73,96.29
+Q1309431,structural failure,split,,done,,,,
+Q205892,calendar date,assign,calendar date,done,27248,325744891,91.75,96.33
+P3182723,Hindenburg_disaster,assign,Hindenburg_disaster,done,27249,325893827,91.75,96.38
+Q5193264,cultural behavior,split,,done,,,,
+Q106803732,conduct,split,,done,,,,
+Q3686466,legal conduct,split,,done,,,,
+Q114046,occupation,split,,done,,,,
+Q7625093,structure fire,assign,structure fire,done,27284,326041764,91.87,96.42
+P113313005,WrestleMania_XL,assign,WrestleMania_XL,done,27285,326189690,91.87,96.47
+Q45594,greeting,split,,done,,,,
+Q188686,military occupation,assign,military occupation,done,27317,326335724,91.98,96.51
+Q290178,economic crisis,assign,economic crisis,done,27348,326481246,92.08,96.55
+C11483816,annual event (Class Pages),split,,done,,,,
+P102439344,Wikipedia_Asian_Month_2021,assign,Wikipedia_Asian_Month_2021,done,27349,326625376,92.09,96.59
+P98073118,2020_Beirut_explosion,assign,2020_Beirut_explosion,done,27350,326768894,92.09,96.64
+Q1308677,emergency operations,split,,done,,,,
+Q1707496,police operation,assign,police operation,done,27384,326911909,92.21,96.68
+P4215918,Sydney_Royal_Easter_Show,assign,Sydney_Royal_Easter_Show,done,27385,327054347,92.21,96.72
+Q57305,trade fair,assign,trade fair,done,27398,327195482,92.25,96.76
+P5058971,Census_in_Australia,assign,Non-Events,done,27399,327332686,92.26,96.8
+Q467033,feud,assign,feud,done,27407,327469352,92.28,96.84
+Q45382,coup d'état,assign,coup d'état,done,27492,327605606,92.57,96.88
+Q19368429,board game opening,split,,done,,,,
+Q103632,chess opening,assign,Non-Events (chess opening),done,27500,327740089,92.6,96.92
+Q6484291,Islamic holidays,assign,Islamic holidays,done,27505,327869213,92.61,96.96
+C1689296,calamity (Class Pages),split,,done,,,,
+Q332102,paranormal,split,,done,,,,
+Q2401485,expedition,assign,expedition,done,27525,327995373,92.68,97.0
+P45313604,2018_Royal_Rumble,assign,2018_Royal_Rumble,done,27526,328117917,92.68,97.04
+C3839081,disaster (Class Pages),split,,done,,,,
+C1520311,violent crime (Class Pages),assign,Non-Events violent crime (Class Pages),done,27536,328348875,92.72,97.1
+P367660,Eid_Mubarak,assign,Eid_Mubarak,done,27537,328468288,92.72,97.14
+Q115669410,audio release,split,,done,,,,
+Q2031291,musical release,split,,done,,,,
+Q108352496,single release,assign,single release,done,27540,328585327,92.73,97.17
+Q2658935,beauty contest,assign,beauty contest,done,27601,328699191,92.94,97.21
+Q51404,Pride parade,assign,Pride parade,done,27603,328812958,92.94,97.24
+Q4375074,calendar era,assign,calendar era,done,27610,328926618,92.97,97.27
+P104859117,WrestleMania_38,assign,WrestleMania_38,done,27611,329038552,92.97,97.31
+P286102,Rolling_Stone's_500_Greatest_Songs_of_All_Time,assign,Rolling_Stone's_500_Greatest_Songs_of_All_Time,done,27612,329146893,92.97,97.34
+C1062856,anniversary (Class Pages),assign,Non-Events,done,27615,329255231,92.98,97.37
+Q15900616,event sequence,split,,done,,,,
+Q194465,annexation,assign,annexation,done,27627,329362531,93.02,97.4
+C5801919,sex crime (Class Pages),split,,done,,,,
+P63128265,WrestleMania_36,assign,WrestleMania_36,done,27628,329461032,93.03,97.43
+C206426,sodomy (Class Pages),assign,Non-Events,done,27629,329559091,93.03,97.46
+Q902899,halftime show,split,,done,,,,
+Q464980,exhibition,assign,exhibition,done,27658,329656030,93.13,97.49
+Q110552913,Super Bowl halftime show,assign,Super Bowl halftime show,done,27678,329752747,93.2,97.52
+Q1601291,bypass rite,assign,Non-Events,done,27680,329849035,93.2,97.55
+P30274958,Grenfell_Tower_fire,assign,Grenfell_Tower_fire,done,27681,329944970,93.21,97.58
+Q18574943,annual commemoration,assign,annual commemoration,done,27684,330040474,93.22,97.6
+Q977367,chemical accident,assign,chemical accident,done,27688,330134766,93.23,97.63
+Q861911,oration,assign,oration,done,27738,330227933,93.4,97.66
+Q49836,wedding,assign,wedding,done,27758,330319248,93.46,97.69
+Q901114,shock tactic,split,,done,,,,
+Q543461,charge,assign,charge,done,27763,330409703,93.48,97.71
+P85716803,WrestleMania_37,assign,WrestleMania_37,done,27764,330497050,93.48,97.74
+C318836,malpractice (Class Pages),split,,done,,,,
+C64831582,professional misconduct (Class Pages),split,,done,,,,
+C463516,malfeasance in office (Class Pages),split,,done,,,,
+C11632323,police misconduct (Class Pages),assign,police misconduct (Class Pages),done,27766,330580862,93.49,97.76
+Q4071928,cyberattack,assign,cyberattack,done,27774,330663230,93.52,97.79
+Q11620651,bridge failure,assign,bridge failure,done,27784,330745272,93.55,97.81
+Q428148,regulation,split,,done,,,,
+Q88221447,non-pharmaceutical countermeasure,split,,done,,,,
+Q30314010,social distancing,split,,done,,,,
+Q223625,curfew,split,,done,,,,
+P87866152,COVID-19_lockdowns,assign,COVID-19_lockdowns,done,27785,330826473,93.56,97.84
+Q200538,party,assign,party,done,27802,330907015,93.61,97.86
+P28183374,WrestleMania_34,assign,WrestleMania_34,done,27803,330985243,93.62,97.88
+Q56283016,gathering,split,,done,,,,
+Q56283016,gathering,split,,done,,,,
+Q2761147,meeting,split,,done,,,,
+Q12772763,instruction,split,,done,,,,
+Q22445448,request,split,,done,,,,
+Q3918409,proposal,split,,done,,,,
+Q106592862,annual music awards ceremony,assign,annual music awards ceremony,done,27808,331059755,93.63,97.91
+P600068,Centennial_Olympic_Park_bombing,assign,Centennial_Olympic_Park_bombing,done,27809,331133785,93.64,97.93
+P116009655,Physical:_100,assign,Non-Events,done,27810,331207212,93.64,97.95
+P18615088,Annabelle_(doll),assign,Annabelle_(doll),done,27811,331280525,93.64,97.97
+P59764982,2019_Royal_Rumble,assign,2019_Royal_Rumble,done,27812,331353184,93.65,97.99
+Q154430,anxiety,assign,anxiety,done,27813,331424676,93.65,98.01
+P150229,Boxer_Rebellion,assign,Boxer_Rebellion,done,27814,331495132,93.65,98.03
+P55590343,SummerSlam_(2018),assign,SummerSlam_(2018),done,27815,331562872,93.66,98.05
+Q2642727,period,split,,done,,,,
+Q37640,orbital period,split,,done,,,,
+Q577,year,assign,year,done,27830,331629360,93.71,98.07
+Q1077012,annual general meeting,split,,done,,,,
+Q28963415,G6 / G7 / G8 summit,assign,G6 / G7 / G8 summit,done,27839,331695299,93.74,98.09
+Q43516519,shopping day,assign,shopping day,done,27840,331759107,93.74,98.11
+Q15238777,legislative term,assign,legislative term,done,27874,331822167,93.86,98.13
+P29581935,SummerSlam_(2017),assign,SummerSlam_(2017),done,27875,331884944,93.86,98.15
+Q64728693,non-existent entity,split,,done,,,,
+Q14897293,fictional entity,split,,done,,,,
+Q15706911,fictional object,split,,done,,,,
+Q126078878,fictional spatio-temporal entity,split,,done,,,,
+Q126078851,fictional occurrent,split,,done,,,,
+Q14136353,fictional occurrence,assign,fictional occurrence,done,27885,331947689,93.89,98.17
+Q650711,combat,split,,done,,,,
+Q8011595,fortune-telling,split,,done,,,,
+Q1975478,abuse of power,split,,done,,,,
+Q366,corruption,assign,corruption,done,27889,332007762,93.91,98.19
+Q629257,work accident,assign,work accident,done,27891,332067556,93.91,98.2
+Q61740765,LGBTQIA+ awareness period,assign,LGBTQIA+ awareness period,done,27897,332126550,93.93,98.22
+Q625994,convention,assign,convention,done,27925,332185445,94.03,98.24
+Q1322005,natural phenomenon,split,,done,,,,
+Q751989,astronomical phenomenon,assign,astronomical phenomenon,done,27953,332243867,94.12,98.26
+Q34812,New Year,assign,New Year,done,27954,332301641,94.12,98.27
+Q1227249,international incident,assign,international incident,done,27966,332358555,94.16,98.29
+Q191503,duel,assign,duel,done,27971,332414879,94.18,98.31
+Q2465832,branch of science,split,,done,,,,
+Q12015335,branch of engineering,split,,done,,,,
+Q177777,logistics,split,,done,,,,
+Q1308085,transportation,split,,done,,,,
+Q124300164,use of living beings for transport,split,,done,,,,
+Q63247926,human-powered transport,split,,done,,,,
+Q53121,cycling,split,,done,,,,
+Q2215841,cycle sport,split,,done,,,,
+Q221635,track cycling,assign,track cycling,done,27972,332470454,94.18,98.32
+P502073,Halifax_Explosion,assign,Halifax_Explosion,done,27973,332525915,94.19,98.34
+Q3010369,opening ceremony,split,,done,,,,
+P3517772,Christmas_and_holiday_season,assign,Christmas_and_holiday_season,done,27974,332579814,94.19,98.36
+P5097957,Childers_Palace_Backpackers_Hostel_fire,assign,Childers_Palace_Backpackers_Hostel_fire,done,27975,332632958,94.2,98.37
+P52772392,Money_in_the_Bank_(2018),assign,Money_in_the_Bank_(2018),done,27976,332685985,94.2,98.39
+Q130192067,Olympic Games opening ceremony,assign,Olympic Games opening ceremony,done,27987,332737806,94.24,98.4
+Q646740,landing operation,assign,landing operation,done,27990,332789286,94.25,98.42
+Q1062856,anniversary,assign,anniversary,done,28007,332840584,94.3,98.43
+Q14819852,birth,split,,done,,,,
+Q34581,childbirth,split,,done,,,,
+Q25671,multiple birth,split,,done,,,,
+Q159979,twin,split,,done,,,,
+Q92208217,fraternal twin sibling,assign,fraternal twin sibling,done,28010,332891587,94.31,98.45
+Q2199864,duration,split,,done,,,,
+P744374,Groundhog_Day,assign,Groundhog_Day,done,28011,332941571,94.32,98.46
+Q573,day,assign,day,done,28029,332991171,94.38,98.48
+P210463,Corruption_Perceptions_Index,assign,Non-Events,done,28030,333039425,94.38,98.49
+P60287056,PewDiePie_vs_T-Series,assign,PewDiePie_vs_T-Series,done,28031,333086967,94.38,98.51
+P56217901,Hell_in_a_Cell_(2018),assign,Hell_in_a_Cell_(2018),done,28032,333133815,94.39,98.52
+P58796929,"TLC:_Tables,_Ladders_&_Chairs_(2018)",assign,"TLC:_Tables,_Ladders_&_Chairs_(2018)",done,28033,333180404,94.39,98.53
+P60624373,Elimination_Chamber_(2019),assign,Elimination_Chamber_(2019),done,28034,333226210,94.39,98.55
+Q110548223,proposed legislation,split,,done,,,,
+Q686822,bill,assign,bill,done,28054,333272002,94.46,98.56
+Q1800545,migration,split,,done,,,,
+Q177626,human migration,split,,done,,,,
+Q21089304,honours list,assign,honours list,done,28066,333317383,94.5,98.57
+P36103,Royal_Rumble,assign,Royal_Rumble,done,28067,333362367,94.5,98.59
+Q2110808,religious behaviour,split,,done,,,,
+Q1078001,territorial dispute,assign,territorial dispute,done,28082,333405795,94.56,98.6
+P47566,United_States_presidential_election,assign,United_States_presidential_election,done,28083,333448658,94.56,98.61
+Q838718,city fire,assign,city fire,done,28092,333491109,94.59,98.62
+P97359920,2020_United_States_presidential_debates,assign,2020_United_States_presidential_debates,done,28093,333533226,94.59,98.64
+P28598822,Fastlane_(2017),assign,Fastlane_(2017),done,28094,333575254,94.6,98.65
+Q11422542,international conflict,assign,international conflict,done,28096,333616892,94.6,98.66
+C3505845,state (Class Pages),assign,Non-Events,done,28103,333658397,94.63,98.67
+Q28732711,physical substance,assign,Non-Events,done,28105,333699688,94.63,98.69
+Q7888355,United Nations Climate Change Conference,assign,United Nations Climate Change Conference,done,28110,333740498,94.65,98.7
+P61221870,Fastlane_(2019),assign,Fastlane_(2019),done,28111,333780893,94.65,98.71
+Q1413045,military parade,assign,military parade,done,28122,333821165,94.69,98.72
+P3656148,Deepwater_Horizon_explosion,assign,Deepwater_Horizon_explosion,done,28123,333860444,94.69,98.73
+P55094461,Extreme_Rules_(2018),assign,Extreme_Rules_(2018),done,28124,333899529,94.7,98.75
+Q274079,quiz,assign,Non-Events,done,28125,333938280,94.7,98.76
+C578241,inchoate offense (Class Pages),split,,done,,,,
+C29142,criminal attempt (Class Pages),split,,done,,,,
+Q115095765,location,split,,done,,,,
+Q107307154,virtual place,split,,done,,,,
+Q202833,social media,split,,done,,,,
+Q64001169,social media campaign,assign,social media campaign,done,28127,333976531,94.71,98.77
+Q2304773,harvest festival,assign,harvest festival,done,28129,334014582,94.71,98.78
+C149086,homicide (Class Pages),split,,done,,,,
+Q6665312,lockdown,assign,lockdown,done,28132,334052104,94.72,98.79
+C1283181,racketeering (Class Pages),assign,Non-Events,done,28134,334088835,94.73,98.8
+P125953,Tunguska_event,assign,Tunguska_event,done,28135,334124593,94.73,98.81
+P41546150,"TLC:_Tables,_Ladders_&_Chairs_(2017)",assign,"TLC:_Tables,_Ladders_&_Chairs_(2017)",done,28136,334159545,94.74,98.82
+Q25481968,speech act,split,,done,,,,
+P912988,Tết,assign,Tết,done,28137,334194460,94.74,98.83
+P912988,Tết,assign,Tết,done,28137,334194460,94.74,98.83
+Q111161,synod,assign,synod,done,28147,334228784,94.77,98.84
+P215014,Songkran_(Thailand),assign,Songkran_(Thailand),done,28148,334262819,94.78,98.85
+Q135930417,private data,split,,done,,,,
+Q3702971,personal data,split,,done,,,,
+Q2389905,date of birth,split,,done,,,,
+P3016939,Date_of_birth_of_Jesus,assign,Date_of_birth_of_Jesus,done,28149,334296501,94.78,98.86
+C31489,Movember (Class Pages),assign,Movember (Class Pages),done,28150,334329286,94.78,98.87
+P106687516,Girls_Planet_999,assign,Non-Events,done,28151,334361648,94.79,98.88
+Q131288,immigration,assign,immigration,done,28153,334393957,94.79,98.89
+C132821,murder (Class Pages),split,,done,,,,
+C750215,mass murder (Class Pages),split,,done,,,,
+P38803119,Hell_in_a_Cell_(2017),assign,Hell_in_a_Cell_(2017),done,28154,334425880,94.8,98.9
+P7374473,Melbourne_Royal_Show,assign,Melbourne_Royal_Show,done,28155,334457222,94.8,98.91
+Q98557220,event affected by the COVID-19 pandemic,split,,done,,,,
+Q87479384,cancelled event due to the COVID-19 pandemic,split,,done,,,,
+Q89031984,cancelled music event due to the COVID-19 pandemic,assign,cancelled music event due to the COVID-19 pandemic,done,28156,334487996,94.8,98.92
+Q201676,funeral,assign,funeral,done,28167,334518697,94.84,98.93
+Q815005,commitment,split,,done,,,,
+Q1140925,confession of faith,split,,done,,,,
+Q183770,Christian creed,assign,Christian creed,done,28171,334548878,94.86,98.94
+Q129596243,pride event,assign,pride event,done,28172,334578833,94.86,98.95
+P1971029,The_Players_Championship,assign,The_Players_Championship,done,28173,334608669,94.86,98.96
+Q2999003,publicity stunt,assign,publicity stunt,done,28175,334637830,94.87,98.96
+P3012492,Dally_M_Awards,assign,Dally_M_Awards,done,28176,334666852,94.87,98.97
+C31464082,source entity (Class Pages),split,,done,,,,
+Q3002774,health crisis,assign,health crisis,done,28182,334695459,94.89,98.98
+P606649,Tomorrowland_(festival),assign,Tomorrowland_(festival),done,28183,334723710,94.9,98.99
+P1312,Spring_(season),assign,Spring_(season),done,28184,334751844,94.9,99.0
+P105487887,Taylor_Swift_masters_controversy,assign,Taylor_Swift_masters_controversy,done,28185,334779780,94.9,99.01
+C177716,pogrom (Class Pages),assign,Non-Events,done,28186,334807100,94.91,99.01
+Q1083397,religious tourism,assign,religious tourism,done,28189,334834289,94.92,99.02
+P28873776,Extreme_Rules_(2017),assign,Extreme_Rules_(2017),done,28190,334861291,94.92,99.03
+Q104708121,storming,assign,storming,done,28191,334888118,94.92,99.04
+Q1967459,concours,split,,done,,,,
+Q1955280,music competition,assign,music competition,done,28201,334913467,94.96,99.05
+P7546665,Smurl_haunting,assign,Smurl_haunting,done,28202,334938201,94.96,99.05
+C125506646,transfer (Class Pages),assign,Non-Events,done,28209,334962075,94.98,99.06
+P4824330,Australian_International_Airshow,assign,Australian_International_Airshow,done,28210,334985391,94.99,99.07
+P125855262,WrestleMania_42,assign,WrestleMania_42,done,28211,335008020,94.99,99.07
+C2199864,duration (Class Pages),assign,Non-Events,done,28222,335030354,95.03,99.08
+P7624096,Strip_search_phone_call_scam,assign,Strip_search_phone_call_scam,done,28223,335052394,95.03,99.09
+P110933527,Athletics_at_the_2022_Commonwealth_Games,assign,Athletics_at_the_2022_Commonwealth_Games,done,28224,335074387,95.03,99.09
+P18164062,Gombe_Chimpanzee_War,assign,Gombe_Chimpanzee_War,done,28225,335096225,95.04,99.1
+Q21000979,politics of Africa,assign,politics of Africa,done,28226,335118062,95.04,99.11
+P4681688,Adelaide_Christmas_Pageant,assign,Adelaide_Christmas_Pageant,done,28227,335139885,95.04,99.11
+P47621425,NXT_TakeOver:_New_Orleans,assign,NXT_TakeOver:_New_Orleans,done,28228,335161688,95.05,99.12
+C86923152,risk source (Class Pages),split,,done,,,,
+Q13454063,closing ceremony,split,,done,,,,
+P124473,Earth_Day,assign,Earth_Day,done,28229,335183173,95.05,99.13
+P830166,Ohi_Day,assign,Ohi_Day,done,28230,335204565,95.05,99.13
+P30032944,Money_in_the_Bank_(2017),assign,Money_in_the_Bank_(2017),done,28231,335225824,95.06,99.14
+Q170774,miracle,assign,miracle,done,28232,335247042,95.06,99.14
+C16688120,crime against life (Class Pages),assign,Non-Events,done,28236,335267945,95.07,99.15
+Q19960719,nuclear incident,assign,nuclear incident,done,28237,335288628,95.08,99.16
+P127797242,Rugby_League_Las_Vegas,assign,Rugby_League_Las_Vegas,done,28238,335309262,95.08,99.16
+Q5891,philosophy,split,,done,,,,
+Q131505,esotericism,split,,done,,,,
+Q7988482,Western esotericism,split,,done,,,,
+Q178934,occultism,split,,done,,,,
+Q81741,magic,split,,done,,,,
+Q1999796,incantation,split,,done,,,,
+Q109411,curse,assign,curse,done,28242,335329630,95.09,99.17
+Q10273457,equipment,assign,equipment,done,28243,335349494,95.1,99.17
+Q58687420,cultural event,assign,cultural event,done,28244,335369278,95.1,99.18
+P7373583,Royal_Adelaide_Show,assign,Royal_Adelaide_Show,done,28245,335389028,95.1,99.19
+P867316,Triangle_Shirtwaist_Factory_fire,assign,Triangle_Shirtwaist_Factory_fire,done,28246,335408572,95.11,99.19
+P1311,Winter,assign,Winter,done,28247,335428000,95.11,99.2
+C1445650,holiday (Class Pages),split,,done,,,,
+C7079040,offence against the person (Class Pages),assign,Non-Events,done,28254,335447357,95.13,99.2
+Q94998068,Olympic Games closing ceremony,assign,Olympic Games closing ceremony,done,28262,335466055,95.16,99.21
+P102119426,Brereton_Report,assign,Brereton_Report,done,28263,335484736,95.16,99.21
+Q138341612,time interval with respect to recurring time interval,split,,done,,,,
+Q10688145,season,split,,done,,,,
+P216227,State_of_emergency,assign,Non-Events,done,28264,335503001,95.17,99.22
+Q15900647,convention series,assign,convention series,done,28275,335521243,95.21,99.23
+Q12047512,psychological phenomenon,split,,done,,,,
+Q781413,cognitive process,split,,done,,,,
+Q12047513,mental process,split,,done,,,,
+Q781413,cognitive process,split,,done,,,,
+C3968640,mental state (Class Pages),assign,Non-Events,done,28280,335539080,95.22,99.23
+P11704,Election_Day_(United_States),assign,Election_Day_(United_States),done,28281,335556890,95.23,99.24
+P8249787,Korean_New_Year,assign,Korean_New_Year,done,28282,335574326,95.23,99.24
+Q72867640,hypothetical event,split,,done,,,,
+Q64728935,future event,split,,done,,,,
+Q114775014,future election,assign,future election,done,28286,335591739,95.24,99.25
+Q858893,salute,split,,done,,,,
+Q186361,punishment,split,,done,,,,
+C2723958,influenza pandemic (Class Pages),split,,done,,,,
+P2723958,Asian_influenza,assign,Asian_influenza,done,28287,335608203,95.25,99.25
+P121174231,2023_Nigerien_crisis,assign,2023_Nigerien_crisis,done,28288,335624654,95.25,99.26
+P2698266,1955_Le_Mans_disaster,assign,1955_Le_Mans_disaster,done,28289,335640838,95.25,99.26
+Q337060,perceptible physical object,split,,done,,,,
+Q12769393,end,split,,done,,,,
+Q7313594,renunciation,split,,done,,,,
+Q66394244,physical anatomical entity,split,,done,,,,
+Q7239,organism,assign,Non-Events,done,28290,335656769,95.26,99.27
+Q115755288,reversal ritual,assign,reversal ritual,done,28291,335672671,95.26,99.27
+P1129089,Great_Molasses_Flood,assign,Great_Molasses_Flood,done,28292,335688389,95.26,99.27
+P137722448,American_hybrid_warfare_against_Greenland_during_the_second_Trump_administration,assign,American_hybrid_warfare_against_Greenland_during_the_second_Trump_administration,done,28293,335703992,95.27,99.28
+Q1331926,decision making,assign,decision making,done,28296,335719532,95.28,99.28
+C1132455,hazard (Class Pages),split,,done,,,,
+C1689296,calamity (Class Pages),split,,done,,,,
+Q106594095,annual music competition edition,assign,annual music competition edition,done,28305,335734622,95.31,99.29
+C4804975,Ashfield gang rapes (Class Pages),assign,Ashfield gang rapes (Class Pages),done,28306,335749393,95.31,99.29
+P160145,Earth_Hour,assign,Earth_Hour,done,28307,335764090,95.31,99.3
+Q2449671,transportable goods,split,,done,,,,
+Q2106340,mail item,split,,done,,,,
+Q133492,letter,assign,letter,done,28315,335778783,95.34,99.3
+P732997,BAFTA_Award,assign,BAFTA_Award,done,28316,335793386,95.34,99.31
+P60994484,孟晚舟事件,assign,孟晚舟事件,done,28317,335807894,95.35,99.31
+Q2270606,spiritual practice,split,,done,,,,
+Q63553707,eating contest,assign,eating contest,done,28318,335822120,95.35,99.31
+Q3937326,liturgical rite,split,,done,,,,
+Q13024547,Christian liturgical rite,assign,Christian liturgical rite,done,28323,335836203,95.37,99.32
+P57835122,NXT_TakeOver:_WarGames_(2018),assign,NXT_TakeOver:_WarGames_(2018),done,28324,335850276,95.37,99.32
+P137652531,2026_Crans-Montana_bar_fire,assign,2026_Crans-Montana_bar_fire,done,28325,335864123,95.37,99.33
+P1313,Summer,assign,Summer,done,28326,335877683,95.38,99.33
+Q621608,ban,split,,done,,,,
+P83554667,2020_Hubei_lockdowns,assign,2020_Hubei_lockdowns,done,28327,335891171,95.38,99.33
+P992476,The_Hum,assign,The_Hum,done,28328,335904587,95.38,99.34
+P1314,Autumn,assign,Autumn,done,28329,335917858,95.39,99.34
+P30325249,Atherstone_Ball_Game,assign,Atherstone_Ball_Game,done,28330,335931026,95.39,99.35
+P1055047,World_Universities_Debating_Championship,assign,World_Universities_Debating_Championship,done,28331,335944113,95.39,99.35
+P485384,Sampoong_Department_Store_collapse,assign,Sampoong_Department_Store_collapse,done,28332,335957090,95.4,99.35
+P959755,South_by_Southwest,assign,South_by_Southwest,done,28333,335969773,95.4,99.36
+Q2310419,organizational conflict,split,,done,,,,
+P107284670,Lia_radiological_accident,assign,Lia_radiological_accident,done,28334,335982185,95.4,99.36
+Q61039291,knife attack,assign,knife attack,done,28338,335994326,95.42,99.37
+P1362588,Eruv,assign,Non-Events,done,28339,336006467,95.42,99.37
+Q61509,travel,split,,done,,,,
+P1038788,Hyatt_Regency_walkway_collapse,assign,Hyatt_Regency_walkway_collapse,done,28340,336018600,95.42,99.37
+Q5782934,labor dispute,split,,done,,,,
+P2711493,World_Naked_Gardening_Day,assign,World_Naked_Gardening_Day,done,28341,336030619,95.43,99.38
+Q1131696,rite of passage,split,,done,,,,
+P107337981,2021_Surfside_condominium_building_collapse,assign,2021_Surfside_condominium_building_collapse,done,28342,336042391,95.43,99.38
+P109648038,20大,assign,20大,done,28343,336054128,95.43,99.38
+C8461,racism (Class Pages),assign,Non-Events,done,28346,336065824,95.44,99.39
+P4824401,Australian_Made,assign,Australian_Made,done,28347,336077501,95.45,99.39
+P125465957,2024_Iran-Israel_conflict,assign,2024_Iran-Israel_conflict,done,28348,336089177,95.45,99.39
+P12227598,Signs_of_the_coming_of_Judgement_Day,assign,Non-Events,done,28349,336100762,95.45,99.4
+P824540,AVN_Award,assign,AVN_Award,done,28350,336112342,95.46,99.4
+Q2917032,Public Domain Day,assign,Public Domain Day,done,28354,336123873,95.47,99.4
+Q31983622,reaction,assign,reaction,done,28358,336135367,95.48,99.41
+P50782,WWE_Elimination_Chamber,assign,WWE_Elimination_Chamber,done,28359,336146749,95.49,99.41
+P124692799,Willy's_Chocolate_Experience,assign,Willy's_Chocolate_Experience,done,28360,336158070,95.49,99.41
+P5643137,Allhallowtide,assign,Allhallowtide,done,28361,336169386,95.49,99.42
+P43777,2010_Haiti_earthquake,assign,2010_Haiti_earthquake,done,28362,336180494,95.5,99.42
+Q11862829,academic discipline,split,,done,,,,
+Q309,history,split,,done,,,,
+P4626065,Operation_Lyari,assign,Operation_Lyari,done,28363,336191440,95.5,99.42
+P2371450,Day_of_Arafah,assign,Day_of_Arafah,done,28364,336202347,95.5,99.43
+Q115654429,hitting,split,,done,,,,
+Q890073,body percussion,assign,Non-Events,done,28372,336213207,95.53,99.43
+P1133638,Rose_Parade,assign,Rose_Parade,done,28373,336223955,95.54,99.43
+P3293251,Bellamy_salute,assign,Non-Events,done,28374,336234665,95.54,99.44
+Q851824,persecution,assign,persecution,done,28382,336245362,95.57,99.44
+P28828017,NXT_TakeOver:_Orlando,assign,NXT_TakeOver:_Orlando,done,28383,336255991,95.57,99.44
+P125942296,Apple_Music's_100_Best_Albums,assign,Apple_Music's_100_Best_Albums,done,28384,336266556,95.57,99.45
+P72067697,2019_Grays_incident,assign,2019_Grays_incident,done,28385,336277080,95.58,99.45
+C15734480,official offense (Class Pages),assign,Non-Events,done,28387,336287394,95.58,99.45
+Q124428077,In-flight breakup,assign,In-flight breakup,done,28389,336297708,95.59,99.45
+P140732,Numerology,assign,Non-Events,done,28390,336308019,95.59,99.46
+C5313720,dumbing down (Class Pages),assign,Non-Events,done,28392,336318326,95.6,99.46
+P30130610,2017_Qatar_diplomatic_crisis,assign,2017_Qatar_diplomatic_crisis,done,28393,336328562,95.6,99.46
+C3322950,Sabbath (Class Pages),assign,Sabbath (Class Pages),done,28394,336338792,95.61,99.47
+Q751892,caucus,assign,caucus,done,28398,336348996,95.62,99.47
+C1253693,price gouging (Class Pages),assign,Non-Events,done,28400,336359097,95.63,99.47
+Q1315,equinox,assign,equinox,done,28402,336369184,95.63,99.48
+C19711353,public event (Class Pages),split,,done,,,,
+C132241,festival (Class Pages),split,,done,,,,
+Q37038,advertising,split,,done,,,,
+Q1761818,advertising campaign,assign,advertising campaign,done,28412,336379083,95.67,99.48
+C1413228,retirement age (Class Pages),assign,Non-Events,done,28413,336388874,95.67,99.48
+Q109473326,country in World War II,assign,country in World War II,done,28428,336398657,95.72,99.48
+C3839081,disaster (Class Pages),split,,done,,,,
+P11333034,West_Fertilizer_Company_explosion,assign,West_Fertilizer_Company_explosion,done,28429,336408326,95.72,99.49
+P7219226,Wanggongchang_Explosion,assign,Wanggongchang_Explosion,done,28430,336417991,95.73,99.49
+P135102091,2025_MTV_Video_Music_Awards,assign,2025_MTV_Video_Music_Awards,done,28431,336427656,95.73,99.49
+C3001412,horse race (Class Pages),assign,Non-Events,done,28434,336437319,95.74,99.5
+Q1554231,resource,split,,done,,,,
+Q37866906,information resource,split,,done,,,,
+Q49848,document,split,,done,,,,
+Q30941709,government document,split,,done,,,,
+P56067482,Wrestle_Kingdom_13,assign,Wrestle_Kingdom_13,done,28435,336446873,95.74,99.5
+Q3010205,celebration,assign,celebration,done,28446,336456297,95.78,99.5
+P30311615,Mae_Young_Classic,assign,Mae_Young_Classic,done,28447,336465615,95.78,99.5
+P7432714,Schools_Spectacular,assign,Schools_Spectacular,done,28448,336474930,95.79,99.51
+Q17232810,broadcasting accident,assign,broadcasting accident,done,28449,336484222,95.79,99.51
+P116451587,Western_Australian_radioactive_capsule_incident,assign,Western_Australian_radioactive_capsule_incident,done,28450,336493389,95.79,99.51
+P263233,Inauguration_Day,assign,Inauguration_Day,done,28451,336502419,95.8,99.52
+Q3042783,societal collapse,assign,societal collapse,done,28452,336511431,95.8,99.52
+Q10548388,debutante ball,assign,debutante ball,done,28454,336520439,95.81,99.52
+C796194,medical procedure (Class Pages),split,,done,,,,
+C324503,sterilisation (Class Pages),split,,done,,,,
+C706716,compulsory sterilization (Class Pages),split,,done,,,,
+C12007954,involuntary treatment (Class Pages),split,,done,,,,
+C706716,compulsory sterilization (Class Pages),assign,compulsory sterilization (Class Pages),done,28456,336529414,95.81,99.52
+P98815142,Hello,assign,Non-Events,done,28457,336538388,95.82,99.53
+Q2540524,religious violence,assign,religious violence,done,28458,336547332,95.82,99.53
+P19875850,Mr_Fluffy,assign,Mr_Fluffy,done,28459,336556185,95.82,99.53
+P5463686,Flyting,assign,Non-Events,done,28460,336565009,95.83,99.53
+P184937,Bilderberg_Group,assign,Bilderberg_Group,done,28461,336573830,95.83,99.54
+C1520311,violent crime (Class Pages),assign,Non-Events,done,28466,336582648,95.85,99.54
+C3316261,endangerment (Class Pages),assign,endangerment (Class Pages),done,28467,336591434,95.85,99.54
+P137734816,No_Kings_protest,assign,No_Kings_protest,done,28468,336600137,95.86,99.54
+Q15116915,show,assign,show,done,28473,336608742,95.87,99.55
+P106678786,Chrysostomos_of_Zakynthos,assign,Non-Events,done,28474,336617345,95.88,99.55
+Q1773152,participation (in decisions),split,,done,,,,
+Q1283504,social engagement,split,,done,,,,
+Q203764,activism,split,,done,,,,
+Q19890758,political activism,split,,done,,,,
+Q63993400,day of action,split,,done,,,,
+Q5570217,Global Day of Action,split,,done,,,,
+Q117321917,Global Climate Strike,split,,done,,,,
+P67205392,September_2019_climate_strike,assign,September_2019_climate_strike,done,28475,336625837,95.88,99.55
+Q107011650,sea voyage,assign,sea voyage,done,28476,336634249,95.88,99.55
+P42369,Cannes_Film_Festival,assign,Cannes_Film_Festival,done,28477,336642641,95.89,99.56
+C184840,smuggling (Class Pages),assign,Non-Events,done,28478,336650946,95.89,99.56
+Q99496317,withdrawal,split,,done,,,,
+P116197089,Wrestle_Kingdom_18,assign,Wrestle_Kingdom_18,done,28479,336659143,95.89,99.56
+C673281,sexual assault (Class Pages),split,,done,,,,
+P1350221,Erfurt_latrine_disaster,assign,Erfurt_latrine_disaster,done,28480,336667126,95.9,99.56
+P16254614,International_Transgender_Day_of_Visibility,assign,International_Transgender_Day_of_Visibility,done,28481,336675042,95.9,99.57
+P82410109,1974-75_Australian_bushfire_season,assign,1974-75_Australian_bushfire_season,done,28482,336682953,95.9,99.57
+P2632754,Norwegian_rocket_incident,assign,Norwegian_rocket_incident,done,28483,336690790,95.91,99.57
+C165950,espionage (Class Pages),assign,Non-Events,done,28487,336698551,95.92,99.57
+C6666023,motion (Class Pages),assign,Non-Events,done,28488,336706280,95.92,99.58
+P100588143,Wrestle_Kingdom_15,assign,Wrestle_Kingdom_15,done,28489,336714002,95.93,99.58
+Q766875,ethnic conflict,assign,ethnic conflict,done,28494,336721596,95.94,99.58
+Q1760704,withdrawal,split,,done,,,,
+P16000825,1998_Sokcho_submarine_incident,assign,1998_Sokcho_submarine_incident,done,28495,336729088,95.95,99.58
+P7170890,Perth_Royal_Show,assign,Perth_Royal_Show,done,28496,336736531,95.95,99.58
+P6578807,WWE_TLC,assign,WWE_TLC,done,28497,336743780,95.95,99.59
+P48785076,2025_Jubilee,assign,2025_Jubilee,done,28498,336751003,95.96,99.59
+P1325055,New_London_School_explosion,assign,New_London_School_explosion,done,28499,336758201,95.96,99.59
+Q133004,diaspora,assign,Non-Events,done,28507,336765395,95.99,99.59
+P4353495,Castle_Hill_convict_rebellion,assign,Castle_Hill_convict_rebellion,done,28508,336772530,95.99,99.6
+C857984,property crime (Class Pages),assign,Non-Events,done,28512,336779634,96.0,99.6
+C221173,outline of academic disciplines (Class Pages),assign,Non-Events,done,28514,336786706,96.01,99.6
+Q1362483,gas explosion,assign,gas explosion,done,28522,336793731,96.04,99.6
+P6423066,Knotfest,assign,Knotfest,done,28523,336800748,96.04,99.6
+Q2141565,situation,split,,done,,,,
+Q1132455,hazard,split,,done,,,,
+C2574811,cause (Class Pages),assign,Non-Events,done,28526,336807647,96.05,99.61
+P461363,Doppelgänger,assign,Non-Events,done,28527,336814513,96.05,99.61
+P2297768,Jimmy_Carter_rabbit_incident,assign,Jimmy_Carter_rabbit_incident,done,28528,336821280,96.06,99.61
+Q18094710,missile explosion,assign,missile explosion,done,28530,336828038,96.06,99.61
+P15088315,2013_New_South_Wales_bushfires,assign,2013_New_South_Wales_bushfires,done,28531,336834791,96.07,99.61
+P127688165,Biden_crisis,assign,Biden_crisis,done,28532,336841520,96.07,99.62
+P55678793,NXT_TakeOver:_Brooklyn_4,assign,NXT_TakeOver:_Brooklyn_4,done,28533,336848232,96.07,99.62
+P767054,Royal_Christmas_Message,assign,Royal_Christmas_Message,done,28534,336854917,96.08,99.62
+Q2352121,sectarianism,split,,done,,,,
+Q27665152,military project,assign,military project,done,28539,336861533,96.09,99.62
+Q41521,schism,assign,Non-Events,done,28541,336868139,96.1,99.62
+P133838226,Jet_Set_Nightclub_roof_collapse,assign,Jet_Set_Nightclub_roof_collapse,done,28542,336874744,96.1,99.63
+P55594243,Trump_peace_plan,assign,Trump_peace_plan,done,28543,336881326,96.11,99.63
+Q3630827,authorization,split,,done,,,,
+Q584041,arrest warrant,assign,arrest warrant,done,28546,336887904,96.12,99.63
+P444159,Saturday_Night_Massacre,assign,Saturday_Night_Massacre,done,28547,336894473,96.12,99.63
+Q2515887,pattern of behavior,split,,done,,,,
+Q11042,culture,split,,done,,,,
+C1895274,word of the year (Class Pages),assign,word of the year (Class Pages),done,28548,336901031,96.12,99.63
+P1397949,Conflict_between_Fatah_and_Hamas,assign,Conflict_between_Fatah_and_Hamas,done,28549,336907495,96.13,99.64
+P22948406,Iran–Saudi_Arabia_proxy_conflict,assign,Iran–Saudi_Arabia_proxy_conflict,done,28550,336913940,96.13,99.64
+Q17853087,union,split,,done,,,,
+Q6269551,joint session,split,,done,,,,
+Q6269549,joint session of the United States Congress,split,,done,,,,
+Q554211,State of the Union address,assign,State of the Union address,done,28556,336920356,96.15,99.64
+C106132918,business and human rights (Class Pages),assign,Non-Events,done,28558,336926744,96.16,99.64
+P5610366,Groovin'_the_Moo,assign,Groovin'_the_Moo,done,28559,336933111,96.16,99.64
+P5301756,Douglas_MacArthur's_escape_from_the_Philippines,assign,Douglas_MacArthur's_escape_from_the_Philippines,done,28560,336939430,96.16,99.64
+C171558,accident (Class Pages),split,,done,,,,
+P123547055,2023_Guayana_Esequiba_crisis,assign,2023_Guayana_Esequiba_crisis,done,28561,336945729,96.17,99.65
+P67936977,Idol_Producer_(season_3),assign,Non-Events,done,28562,336951964,96.17,99.65
+P136483250,Northwestern_Aleppo_offensive_(2024),assign,Northwestern_Aleppo_offensive_(2024),done,28563,336958174,96.17,99.65
+Q159377,lockout,split,,done,,,,
+P4621906,2011_NBA_lockout,assign,2011_NBA_lockout,done,28564,336964381,96.18,99.65
+P572368,Oppau_explosion,assign,Oppau_explosion,done,28565,336970477,96.18,99.65
+P105694892,2021_Withdrawal_of_U.S._troops_from_Afghanistan,assign,2021_Withdrawal_of_U.S._troops_from_Afghanistan,done,28566,336976539,96.19,99.66
+P2090009,Za_dom_spremni,assign,Non-Events,done,28567,336982600,96.19,99.66
+C110373479,athletics event (Class Pages),split,,done,,,,
+C110373000,track event (Class Pages),split,,done,,,,
+C110373398,track relay race event (Class Pages),split,,done,,,,
+C7269933,Queen's Baton Relay (Class Pages),split,,done,,,,
+P7269933,Queen's_Baton_Relay,assign,Queen's_Baton_Relay,done,28568,336988532,96.19,99.66
+P11141442,河南“75·8”水库溃坝,assign,河南“75·8”水库溃坝,done,28569,336994417,96.2,99.66
+P263078,Nakba_Day,assign,Nakba_Day,done,28570,337000283,96.2,99.66
+C116250089,crimes against international law (Class Pages),split,,done,,,,
+C135010,war crime (Class Pages),split,,done,,,,
+Q606332,evacuation,assign,evacuation,done,28573,337006114,96.21,99.66
+C47496130,reduction (Class Pages),assign,Non-Events,done,28579,337011911,96.23,99.67
+P693564,Kessler_syndrome,assign,Non-Events,done,28580,337017664,96.23,99.67
+P54165959,NXT_TakeOver:_Chicago_(2018),assign,NXT_TakeOver:_Chicago_(2018),done,28581,337023349,96.24,99.67
+Q7897308,unpowered flight,assign,unpowered flight,done,28582,337029028,96.24,99.67
+P622521,NBA_draft,assign,NBA_draft,done,28583,337034635,96.24,99.67
+Q271855,government budget,assign,government budget,done,28589,337040202,96.26,99.67
+P6428056,Komagata_Maru_incident,assign,Komagata_Maru_incident,done,28590,337045666,96.27,99.68
+C7283,terrorism (Class Pages),assign,Non-Events,done,28593,337051076,96.28,99.68
+C4801521,arts festival (Class Pages),split,,done,,,,
+C868557,music festival (Class Pages),assign,music festival (Class Pages),done,28594,337056449,96.28,99.68
+P122834522,Qaraqosh_wedding_fire,assign,Qaraqosh_wedding_fire,done,28595,337061784,96.28,99.68
+Q12132146,No label,split,,done,,,,
+Q41796,sentence,split,,done,,,,
+Q474328,declarative sentence,split,,done,,,,
+Q7233295,positive statement,split,,done,,,,
+Q2839009,allegation,split,,done,,,,
+P102422710,Attempts_to_overturn_the_2020_United_States_presidential_election,assign,Attempts_to_overturn_the_2020_United_States_presidential_election,done,28596,337067103,96.29,99.68
+P1012810,Steve_Bartman_incident,assign,Steve_Bartman_incident,done,28597,337072386,96.29,99.68
+Q85785387,migrant crisis,assign,migrant crisis,done,28600,337077646,96.3,99.69
+P4968569,Brisbane_Festival,assign,Brisbane_Festival,done,28601,337082843,96.3,99.69
+P461911,Swissair_Flight_111,assign,Swissair_Flight_111,done,28602,337088006,96.31,99.69
+P55389060,2018–19_Australian_region_cyclone_season,assign,2018–19_Australian_region_cyclone_season,done,28603,337093051,96.31,99.69
+P330305,Spontaneous_human_combustion,assign,Non-Events,done,28604,337098061,96.31,99.69
+C1197685,public holiday (Class Pages),split,,done,,,,
+Q4176199,cold war,assign,cold war,done,28606,337103060,96.32,99.69
+Q2198779,unit,assign,Non-Events,done,28610,337108051,96.33,99.69
+Q1033074,dam failure,assign,dam failure,done,28613,337112987,96.34,99.7
+P112169132,Rugby_sevens_at_the_2022_Commonwealth_Games_–_Men's_tournament,assign,Rugby_sevens_at_the_2022_Commonwealth_Games_–_Men's_tournament,done,28614,337117915,96.35,99.7
+C1975478,abuse of power (Class Pages),assign,Non-Events,done,28616,337122841,96.35,99.7
+P51620,Beatification,assign,Non-Events,done,28617,337127698,96.36,99.7
+P135497336,2025_Tasmanian_government_formation,assign,2025_Tasmanian_government_formation,done,28618,337132554,96.36,99.7
+C156537,domestic violence (Class Pages),assign,Non-Events,done,28624,337137407,96.38,99.7
+C2235125,mass killings under communist regimes (Class Pages),split,,done,,,,
+P2235125,Mass_killings_under_Communist_regimes,assign,Mass_killings_under_Communist_regimes,done,28625,337142209,96.38,99.7
+P4879177,WrestleMania_XXX,assign,WrestleMania_XXX,done,28626,337146998,96.39,99.71
+P25245510,Henley_&_Partners_Passport_Index,assign,Henley_&_Partners_Passport_Index,done,28627,337151762,96.39,99.71
+P61056709,2019_League_of_Legends_World_Championship,assign,2019_League_of_Legends_World_Championship,done,28628,337156485,96.39,99.71
+P7922624,Versailles_wedding_hall_disaster,assign,Versailles_wedding_hall_disaster,done,28629,337161169,96.4,99.71
+C168983,conflagration (Class Pages),split,,done,,,,
+Q12857432,Chinese dynasty,assign,Chinese dynasty,done,28634,337164788,96.41,99.71
+Q21514702,abandoned project,split,,done,,,,
+Q114342413,cancelled event,assign,cancelled event,done,28639,337167249,96.43,99.71
+Q814441,assertion,assign,Non-Events,done,28644,337168927,96.45,99.71
+Q4618,Carnival,assign,Carnival,done,28648,337172821,96.46,99.71
+C2571535,political crime (Class Pages),assign,Non-Events,done,28652,337176526,96.47,99.71
+Q19977811,breakdown,split,,done,,,,
+Q93616941,security breach,split,,done,,,,
+Q5438910,airspace intrusion,assign,airspace intrusion,done,28656,337180166,96.49,99.72
+Q32098,sanction,split,,done,,,,
+Q1248258,economic sanction,assign,economic sanction,done,28660,337183501,96.5,99.72
+Q13147896,plenary session,assign,plenary session,done,28664,337186327,96.52,99.72
+Q2912528,trade conflict,assign,trade conflict,done,28668,337189077,96.53,99.72
+Q178706,institution,split,,done,,,,
+Q8436,family,split,,done,,,,
+Q13417114,noble family,split,,done,,,,
+Q164950,dynasty,split,,done,,,,
+Q11876947,Egyptian dynasty,assign,Egyptian dynasty,done,28672,337191060,96.54,99.72
+Q4358176,council,split,,done,,,,
+Q2495862,congress,assign,congress,done,28676,337192430,96.56,99.72
+Q6502154,exploration,assign,exploration,done,28679,337196677,96.57,99.72
+C459409,hate crime (Class Pages),assign,Non-Events,done,28682,337200833,96.58,99.72
+Q21152775,aviation occurrence,split,,done,,,,
+Q104776655,flight disappearance,assign,flight disappearance,done,28685,337203970,96.59,99.72
+Q47505518,AVN Awards ceremony,assign,AVN Awards ceremony,done,28688,337206994,96.6,99.72
+Q29182544,assignment,assign,Non-Events,done,28691,337209878,96.61,99.72
+Q106594041,annual music competition,assign,annual music competition,done,28694,337212470,96.62,99.73
+Q1469546,running gag,assign,running gag,done,28697,337214907,96.63,99.73
+Q55091441,operation result,assign,Non-Events,done,28700,337217276,96.64,99.73
+Q70990126,creative work season,assign,Non-Events,done,28703,337219217,96.65,99.73
+C1554231,resource (Class Pages),split,,done,,,,
+C37866906,information resource (Class Pages),split,,done,,,,
+C49848,document (Class Pages),split,,done,,,,
+C1348645,instructional materials (Class Pages),split,,done,,,,
+C2150504,signal (Class Pages),split,,done,,,,
+C707125,threat (Class Pages),split,,done,,,,
+Q13537604,religious ceremony,assign,religious ceremony,done,28706,337221058,96.66,99.73
+C5185424,crime in the United States (Class Pages),assign,Non-Events,done,28709,337222013,96.67,99.73
+C160128,treason (Class Pages),split,,done,,,,
+C169950,wildfire (Class Pages),split,,done,,,,
+C22938576,race (Class Pages),split,,done,,,,
+C477415,amputation (Class Pages),split,,done,,,,
+P5967550,I-40_bridge_disaster,assign,I-40_bridge_disaster,done,28710,337226561,96.67,99.73
+P27942570,Impeachment_of_Park_Geun-hye,assign,Impeachment_of_Park_Geun-hye,done,28711,337231088,96.67,99.73
+P60776171,Good_Things_(music_festival),assign,Good_Things_(music_festival),done,28712,337235576,96.68,99.73
+Q62032401,album chart,assign,Non-Events,done,28714,337240029,96.68,99.73
+P134088903,2025_India–Pakistan_border_skirmishes,assign,2025_India–Pakistan_border_skirmishes,done,28715,337244442,96.69,99.73
+P127163387,Craig_Jones_Invitational,assign,Craig_Jones_Invitational,done,28716,337248822,96.69,99.74
+Q107546796,referendum proposal,split,,done,,,,
+P117286254,March_2024_Irish_constitutional_referendums,assign,March_2024_Irish_constitutional_referendums,done,28717,337253201,96.69,99.74
+C1604776,hemicorporectomy (Class Pages),assign,Non-Events,done,28718,337257574,96.7,99.74
