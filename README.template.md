@@ -22,4 +22,6 @@ Because country-level data features a high degree of granularity, the Wikimedia 
 
 Generally, dataset includes pages from all Wikipedia projects, however, {australia_pageviews.en_pages_pct}% pages are from the English Wikipedia (en.wikipedia), this is followed by the Chinese Wikipedia (Wikipedia language edition that uses written vernacular Chinese, zh.wikipedia) with {australia_pageviews.zh_pages_pct}% of pages. The same is true for views with the English Wikipedia responsible for {australia_pageviews.en_views_pct}% of pageviews and the Chinese Wikipedia for {australia_pageviews.zh_views_pct}%.
 
-We categorised Wikipedia pages using methodology specifically developed for this projects. See [categorisation documentation](categorisation.md) for details.
+We categorised Wikipedia pages using methodology specifically developed for this projects. See [categorisation documentation](categorisation.md) for details. The resulting distribution of views per category is shown in the following figure.
+
+![Distribution of views per category](outputs/figures/combined_categories.png)

@@ -131,6 +131,25 @@ To generate the category distribution treemap plots (standalone non-event catego
 .venv/bin/python scripts/categorisation/build_plots.py
 ```
 
+### 6. Plot Event Timelines
+
+Each event category is defined by a page list in
+`data/poi/{bushfires,cyclones,earthquakes,climate}.csv`, giving each page's
+`page_id` and display `name`. Build the per-event daily-view CSVs by scanning
+the Australia-only pageview TSVs and summing the views of the listed page IDs.
+Matching on the page ID captures a page's full history even across renames:
+
+```bash
+.venv/bin/python scripts/build_event_views.py
+```
+
+Then generate the per-event pageview timeline figures (bushfire, cyclone and
+earthquake small-multiple grids, plus the standalone climate-change timeline):
+
+```bash
+.venv/bin/python scripts/plot_event_timelines.py
+```
+
 ## Outputs
 
 - `data/interim/australia/pageviews/`: Australia-only daily pageview TSVs.
@@ -151,3 +170,9 @@ To generate the category distribution treemap plots (standalone non-event catego
 - `data/interim/categorised_event_pages_labelled.csv`: final categorised event pages with event-specific aggregation and label rules applied.
 - `outputs/tables/category_distribution.csv`: final category distribution table (CSV format).
 - `outputs/tables/event_category_distribution.csv`: final event category distribution table (CSV format).
+- `data/poi/{bushfires,cyclones,earthquakes,climate}.csv`: page lists (`page_id`, `name`) that define each event category.
+- `data/processed/event_views/{bushfires,cyclones,earthquakes,climate}.csv`: daily views for the selected event pages, built from the Australia TSVs by matching page IDs.
+- `outputs/figures/bushfire.png` / `.pdf`: bushfire event pageview timelines (small-multiple grid).
+- `outputs/figures/cyclone.png` / `.pdf`: cyclone event pageview timelines (small-multiple grid).
+- `outputs/figures/earthquake.png` / `.pdf`: earthquake event pageview timelines (small-multiple grid).
+- `outputs/figures/climate.png` / `.pdf`: standalone climate-change pageview timeline.
