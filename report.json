@@ -13,5 +13,9 @@
     "unique_pages": "296,668",
     "zh_pages_pct": "2.5",
     "zh_views_pct": "0.3"
-  }
+  },
+  "natural_disasters": {
+    "views_pct": "0.14"
+  },
+  "natural_disasters_views_pct": "0.14"
 }
