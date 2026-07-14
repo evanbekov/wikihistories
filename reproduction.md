@@ -150,6 +150,18 @@ earthquake small-multiple grids, plus the standalone climate-change timeline):
 .venv/bin/python scripts/plot_event_timelines.py
 ```
 
+### 7. Top Pages by Country and Date Range
+
+Compute the 10 most viewed English Wikipedia pages for a set of country/date-range
+queries (Australia and the UK) directly from the raw `data/raw/pageviews/` TSVs.
+This writes one ranked CSV per query and one daily views-vs-date figure per query,
+highlighting the bushfire pages (Australia, Dec 2019 – Jan 2020) and the cyclone
+pages (Australia, Mar 2025):
+
+```bash
+.venv/bin/python scripts/compute_top_pages.py
+```
+
 ## Outputs
 
 - `data/interim/australia/pageviews/`: Australia-only daily pageview TSVs.
@@ -176,3 +188,9 @@ earthquake small-multiple grids, plus the standalone climate-change timeline):
 - `outputs/figures/cyclone.png` / `.pdf`: cyclone event pageview timelines (small-multiple grid).
 - `outputs/figures/earthquake.png` / `.pdf`: earthquake event pageview timelines (small-multiple grid).
 - `outputs/figures/climate.png` / `.pdf`: standalone climate-change pageview timeline.
+- `outputs/tables/top_pages_australia_2025-03-04_2025-03-09.csv`: 10 most viewed pages in Australia, 4–9 Mar 2025 (Rank, Article title, Average daily views).
+- `outputs/tables/top_pages_australia_2019-12-30_2020-01-09.csv`: 10 most viewed pages in Australia, 30 Dec 2019 – 9 Jan 2020.
+- `outputs/tables/top_pages_uk_2025-03-04_2025-03-09.csv`: 10 most viewed pages in the UK, 4–9 Mar 2025.
+- `outputs/figures/top_pages_cyclone.png` / `.pdf`: daily views-vs-date for the Australia 4–9 Mar 2025 top pages (cyclone pages highlighted).
+- `outputs/figures/top_pages_bushfire.png` / `.pdf`: daily views-vs-date for the Australia 30 Dec 2019 – 9 Jan 2020 top pages (bushfire pages highlighted).
+- `outputs/figures/top_pages_uk.png` / `.pdf`: daily views-vs-date for the UK 4–9 Mar 2025 top pages.

@@ -41,3 +41,13 @@ Articles about cyclones demonstrate similar trends. For example, when Cyclone Al
 Note that these results are local to Australia. For comparison, while “Anora” also features in 10 most viewed pages in the UK during the same period, the cyclone-related pages are not present.
 
 ![Top 10 most viewed Wikipedia articles between 04.03.25 and 09.03.2025 in UK](outputs/figures/top_pages_uk.png)
+
+When natural disasters strike, readers learn not only about the immediate event but also about its historical context. The figures below show that during two of the most significant recent natural disasters — the “Black Summer” bushfires of 2019–2020 (shaded region) and Cyclone Alfred in 2025 (dashed line) — readership for past events in the same category also spiked.
+
+![Most viewed pages in the bushfire category](outputs/figures/bushfire.png)
+
+![Most viewed pages in the cyclone category](outputs/figures/cyclone.png)
+
+Similarly, readers explore the broader context in which these events occur. For example, during the 2019–20 Black Summer bushfires, the “Climate change” article recorded its second-highest readership peak among Australian readers.
+
+![Number of views on the English Wikipedia “Climate change” page from Australia](outputs/figures/climate.png)
