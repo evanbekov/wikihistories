@@ -14,6 +14,11 @@
     "zh_pages_pct": "2.5",
     "zh_views_pct": "0.3"
   },
+  "clickstream": {
+    "top1_share": "21",
+    "top2_share": "6",
+    "top3_share": "5"
+  },
   "natural_disasters": {
     "views_pct": "0.14"
   },

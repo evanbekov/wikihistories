@@ -51,3 +51,7 @@ When natural disasters strike, readers learn not only about the immediate event 
 Similarly, readers explore the broader context in which these events occur. For example, during the 2019–20 Black Summer bushfires, the “Climate change” article recorded its second-highest readership peak among Australian readers.
 
 ![Number of views on the English Wikipedia “Climate change” page from Australia](outputs/figures/climate.png)
+
+Interestingly, the co-viewership of “Black Summer” and “Climate change” articles is not a mere coincidence. By analysing Clickstream data, we have found that readers often moved directly from *Black Summer* to *Climate change*. In fact, the article on the 2019–20 Black Summer bushfires is the single largest source of internal traffic to *Climate change* for Australian readers, accounting for {clickstream.top1_share}% of all internal link-followed arrivals over the study period. It is followed by climate change activist Greta Thunberg ({clickstream.top2_share}%), and climate-satire film Don't Look Up ({clickstream.top3_share}%).
+
+![Top 5 source articles by shart of clicks to Climate Change](outputs/figures/clickstream_climate_shares.png)

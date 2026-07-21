@@ -162,6 +162,41 @@ pages (Australia, Mar 2025):
 .venv/bin/python scripts/compute_top_pages.py
 ```
 
+### 8. Clickstream Impact
+
+Estimate how many Australian readers reached the Climate change article from
+each linking page, and plot the share over time. The estimate combines
+Wikimedia's monthly *clickstream* dumps (global source → target click counts on
+English Wikipedia) with the daily `data/raw/pageviews/` TSVs already downloaded
+in Setup:
+
+    au_clicks(source, day) = clicks(source, month)
+                             * au_views(source, day) / global_views(source, month)
+
+First, download the monthly clickstream dumps and filter each to the
+climate-related destination pages. This writes one small CSV per month to
+`data/clicks/`:
+
+```bash
+.venv/bin/python scripts/download_clickstream.py
+```
+
+Build the daily Australian impact panel by combining the clicks with the raw
+daily pageviews. This scans every `data/raw/pageviews/` TSV once (a few
+minutes) and writes a single CSV; it is run once, after which the figure reads
+only that CSV:
+
+```bash
+.venv/bin/python scripts/build_clickstream_impact.py
+```
+
+Then plot the small-multiple figure of each top source's share of Australian
+clicks to Climate change:
+
+```bash
+.venv/bin/python scripts/plot_clickstream_shares.py
+```
+
 ## Outputs
 
 - `data/interim/australia/pageviews/`: Australia-only daily pageview TSVs.
@@ -194,3 +229,6 @@ pages (Australia, Mar 2025):
 - `outputs/figures/top_pages_cyclone.png` / `.pdf`: daily views-vs-date for the Australia 4–9 Mar 2025 top pages (cyclone pages highlighted).
 - `outputs/figures/top_pages_bushfire.png` / `.pdf`: daily views-vs-date for the Australia 30 Dec 2019 – 9 Jan 2020 top pages (bushfire pages highlighted).
 - `outputs/figures/top_pages_uk.png` / `.pdf`: daily views-vs-date for the UK 4–9 Mar 2025 top pages.
+- `data/clicks/{YYYY-MM}.csv`: monthly clickstream rows landing on climate-related pages (`source`, `page`, `type`, `count`), filtered from the Wikimedia enwiki dumps.
+- `data/processed/climate_au_daily.csv`: daily Australian click-impact panel for Climate change (`date`, `pageid`, `title`, `au_views`, `au_count`).
+- `outputs/figures/clickstream_climate_shares.png` / `.pdf`: small multiples of each top source's share of estimated Australian clicks to Climate change.
